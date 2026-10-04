@@ -16,7 +16,6 @@ from docx.oxml import parse_xml, OxmlElement
 from docx.oxml.ns import nsdecls, qn
 import nbformat as nbf
 
-# Define directory layout
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(BASE_DIR, "output")
 FIGURES_DIR = os.path.join(OUTPUT_DIR, "figures")
@@ -95,7 +94,6 @@ def run_analysis(df):
     sns.set_theme(style="whitegrid", palette="muted")
     plt.rcParams.update({'font.sans-serif': 'Segoe UI', 'font.family': 'sans-serif', 'figure.autolayout': True})
 
-    # H1: Independent Welch's T-Test
     c_aov = df[df['AB_Group'] == 'Control_Legacy']['Checkout_AOV']
     t_aov = df[df['AB_Group'] == 'Treatment_NewUI']['Checkout_AOV']
     shapiro_c = stats.shapiro(c_aov[:500]).pvalue
@@ -126,7 +124,6 @@ def run_analysis(df):
         'z_stat_conv': round(z_conv, 4), 'p_val_conv': float(p_conv)
     }
 
-    # H2: Paired T-Test
     pre_s = df['Pre_Promo_Spend']
     post_s = df['Post_Promo_Spend']
     diff_s = post_s - pre_s
@@ -144,7 +141,6 @@ def run_analysis(df):
         'decision': "Reject H0 (Statistically Significant)" if pt_p1s < 0.05 else "Fail to Reject H0"
     }
 
-    # H3: One-Way ANOVA
     b_spend = df[df['Loyalty_Tier'] == 'Bronze']['Annual_Spend']
     s_spend = df[df['Loyalty_Tier'] == 'Silver']['Annual_Spend']
     g_spend = df[df['Loyalty_Tier'] == 'Gold']['Annual_Spend']
@@ -165,7 +161,6 @@ def run_analysis(df):
         'tukey_summary': str(tukey)
     }
 
-    # H4: Chi-Square
     ct = pd.crosstab(df['Payment_Method'], df['Order_Status'])
     chi2, chi_p, dof, _ = stats.chi2_contingency(ct)
     cramers_v = np.sqrt(chi2 / (len(df) * (min(ct.shape) - 1)))
@@ -179,10 +174,6 @@ def run_analysis(df):
     with open(JSON_FILE, "w") as f:
         json.dump(results, f, indent=4)
 
-    # -------------------------------------------------------------
-    # Render Figures into output/figures/
-    # -------------------------------------------------------------
-    # Fig 1: AB Test AOV
     fig, ax = plt.subplots(figsize=(8, 5), dpi=300)
     sns.histplot(df, x='Checkout_AOV', hue='AB_Group', kde=True, bins=30, palette=['#1f77b4', '#ff7f0e'], element="step", ax=ax)
     ax.set_title("A/B Test: Average Order Value (AOV) Distribution by Checkout UI", fontsize=13, fontweight='bold', pad=12)
@@ -195,7 +186,6 @@ def run_analysis(df):
     plt.savefig(fig1_path, dpi=300, bbox_inches='tight')
     plt.close()
 
-    # Fig 2: Paired Spend
     fig, ax = plt.subplots(figsize=(7, 5), dpi=300)
     sns.boxplot(data=df[['Pre_Promo_Spend', 'Post_Promo_Spend']], palette=['#6baed6', '#3182bd'], width=0.4, ax=ax)
     sns.stripplot(data=df[['Pre_Promo_Spend', 'Post_Promo_Spend']].sample(100, random_state=42), jitter=0.15, color='black', alpha=0.3, ax=ax)
@@ -207,7 +197,6 @@ def run_analysis(df):
     plt.savefig(fig2_path, dpi=300, bbox_inches='tight')
     plt.close()
 
-    # Fig 3: ANOVA Loyalty Spend
     fig, ax = plt.subplots(figsize=(8, 5), dpi=300)
     order = ['Bronze', 'Silver', 'Gold', 'Platinum']
     sns.barplot(data=df, x='Loyalty_Tier', y='Annual_Spend', order=order, hue='Loyalty_Tier', legend=False, palette='Blues_d', errorbar=('ci', 95), capsize=0.1, ax=ax)
@@ -221,7 +210,6 @@ def run_analysis(df):
     plt.savefig(fig3_path, dpi=300, bbox_inches='tight')
     plt.close()
 
-    # Fig 4: Chi-Square Heatmap
     fig, ax = plt.subplots(figsize=(8, 5), dpi=300)
     sns.heatmap(ct, annot=True, fmt='d', cmap='YlGnBu', cbar=True, ax=ax, linewidths=0.5)
     ax.set_title("Chi-Square Contingency Table: Payment Method vs Order Status", fontsize=13, fontweight='bold', pad=12)
@@ -231,7 +219,6 @@ def run_analysis(df):
     plt.savefig(fig4_path, dpi=300, bbox_inches='tight')
     plt.close()
 
-    # Fig 5: Q-Q Plots
     fig, axes = plt.subplots(1, 2, figsize=(10, 4.5), dpi=300)
     stats.probplot(c_aov, dist="norm", plot=axes[0])
     axes[0].set_title("Q-Q Plot: Control (Legacy UI AOV)", fontsize=11, fontweight='bold')
@@ -276,7 +263,6 @@ def build_docx_report(results):
         section.left_margin = Inches(1.0)
         section.right_margin = Inches(1.0)
 
-    # Title Block
     title_p = doc.add_paragraph()
     title_p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     r = title_p.add_run("STATISTICAL ANALYSIS & HYPOTHESIS TESTING REPORT")
@@ -291,11 +277,9 @@ def build_docx_report(results):
     r_sub.font.italic = True
     r_sub.font.color.rgb = RGBColor(100, 100, 100)
 
-    # Executive Summary
     add_styled_heading(doc, "1. Executive Summary", level=1)
     doc.add_paragraph("This report presents an end-to-end, empirical statistical investigation into critical e-commerce business operations for OmniMart Retail. Four primary business hypotheses were tested across a rigorous sample of 1,500 customer transactions using Python's SciPy and Statsmodels libraries.")
     
-    # Summary Table
     table = doc.add_table(rows=5, cols=5)
     table.alignment = WD_TABLE_ALIGNMENT.CENTER
     headers = ["Hypothesis ID", "Business Context", "Statistical Test Used", "Key Metric & P-Value", "Final Decision"]
@@ -327,10 +311,8 @@ def build_docx_report(results):
                 for run in p.runs:
                     run.font.size = Pt(9)
 
-    # Detailed Analysis Sections with Figures
     add_styled_heading(doc, "2. Statistical Analysis & Visual Results", level=1)
 
-    # H1
     add_styled_heading(doc, "2.1 Hypothesis 1: A/B Testing of Checkout UI", level=2)
     h1 = results['h1_ab_test']
     doc.add_paragraph(f"Control (Legacy UI): Mean AOV = ${h1['control_mean']:.2f} (SD=${h1['control_std']:.2f}). Treatment (New UI): Mean AOV = ${h1['treatment_mean']:.2f} (SD=${h1['treatment_std']:.2f}).\n"
@@ -341,7 +323,6 @@ def build_docx_report(results):
         doc.add_picture(fig1, width=Inches(5.5))
         doc.paragraphs[-1].alignment = WD_ALIGN_PARAGRAPH.CENTER
 
-    # H2
     add_styled_heading(doc, "2.2 Hypothesis 2: Promotional Discount Impact", level=2)
     h2 = results['h2_paired_test']
     doc.add_paragraph(f"Pre-Promotion Spend: ${h2['pre_mean']:.2f}, Post-Promotion Spend: ${h2['post_mean']:.2f} (Mean diff = ${h2['mean_diff']:.2f}).\n"
@@ -351,7 +332,6 @@ def build_docx_report(results):
         doc.add_picture(fig2, width=Inches(5.2))
         doc.paragraphs[-1].alignment = WD_ALIGN_PARAGRAPH.CENTER
 
-    # H3
     add_styled_heading(doc, "2.3 Hypothesis 3: Loyalty Program Spend Variance", level=2)
     h3 = results['h3_anova']
     doc.add_paragraph(f"Annual Spend: Bronze (${h3['tier_means']['Bronze']:.2f}), Silver (${h3['tier_means']['Silver']:.2f}), Gold (${h3['tier_means']['Gold']:.2f}), Platinum (${h3['tier_means']['Platinum']:.2f}).\n"
@@ -361,7 +341,6 @@ def build_docx_report(results):
         doc.add_picture(fig3, width=Inches(5.5))
         doc.paragraphs[-1].alignment = WD_ALIGN_PARAGRAPH.CENTER
 
-    # H4
     add_styled_heading(doc, "2.4 Hypothesis 4: Payment Method vs Order Status", level=2)
     h4 = results['h4_chisq']
     doc.add_paragraph(f"Chi-Square Test of Independence: χ² = {h4['chi2_stat']}, dof = {h4['dof']}, p = {h4['p_value']:.6e}, Cramér's V = {h4['cramers_v']:.3f}.\n"
@@ -371,7 +350,6 @@ def build_docx_report(results):
         doc.add_picture(fig4, width=Inches(5.5))
         doc.paragraphs[-1].alignment = WD_ALIGN_PARAGRAPH.CENTER
 
-    # Strategic Recommendations
     add_styled_heading(doc, "3. Strategic Business Recommendations", level=1)
     recs = [
         "1. Immediate Rollout of New Checkout UI: Deploy the new single-page checkout flow to 100% traffic given significant AOV (+$8.70) and conversion rate improvements.",

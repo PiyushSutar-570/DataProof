@@ -1,10 +1,8 @@
-# Python Bytecode & Cache
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 
-# Environments
 .venv/
 venv/
 ENV/
@@ -15,11 +13,9 @@ bin/
 include/
 lib/
 
-# Jupyter Notebook Checkpoints
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
-# IDE and Editor Files
 .vscode/
 .idea/
 *.swp
@@ -27,7 +23,6 @@ lib/
 *.sublime-project
 *.sublime-workspace
 
-# OS Generated Files
 .DS_Store
 .DS_Store?
 ._*
@@ -36,5 +31,5 @@ lib/
 ehthumbs.db
 Thumbs.db
 
-# Output & Logs
 *.log
+
