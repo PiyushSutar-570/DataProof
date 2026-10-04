@@ -1,0 +1,82 @@
+{
+    "h1_ab_test": {
+        "control_mean": 86.19,
+        "control_std": 22.7,
+        "control_n": 741,
+        "treatment_mean": 94.27,
+        "treatment_std": 24.29,
+        "treatment_n": 759,
+        "mean_difference": 8.08,
+        "ci_95": [
+            5.7,
+            10.46
+        ],
+        "shapiro_control_p": 0.5935,
+        "shapiro_treatment_p": 0.9348,
+        "levene_p": 0.053,
+        "t_stat": 6.6563,
+        "p_value_2sided": 3.929773709063207e-11,
+        "p_value_1sided": 1.9648868545316034e-11,
+        "cohens_d": 0.3435,
+        "decision": "Reject H0 (Statistically Significant)",
+        "control_conv_rate": 15.92,
+        "treatment_conv_rate": 19.76,
+        "z_stat_conv": 1.9402,
+        "p_val_conv": 0.026175307487130886
+    },
+    "h2_paired_test": {
+        "pre_mean": 119.99,
+        "pre_std": 31.53,
+        "post_mean": 138.7,
+        "post_std": 34.87,
+        "mean_diff": 18.71,
+        "std_diff": 14.85,
+        "paired_t_stat": 48.7904,
+        "p_val_2sided": 0.0,
+        "p_val_1sided": 0.0,
+        "wilcoxon_stat": 1082869.0,
+        "wilcoxon_p": 3.568208389086812e-211,
+        "cohens_d": 1.2598,
+        "decision": "Reject H0 (Statistically Significant)"
+    },
+    "h3_anova": {
+        "tier_means": {
+            "Bronze": 315.7,
+            "Gold": 946.54,
+            "Platinum": 1417.58,
+            "Silver": 574.82
+        },
+        "f_stat": 3209.353,
+        "p_value": 0.0,
+        "eta_squared": 0.8655,
+        "decision": "Reject H0 (Statistically Significant)",
+        "tukey_summary": "    Multiple Comparison of Means - Tukey HSD, FWER=0.05     \n============================================================\n group1   group2   meandiff p-adj   lower     upper   reject\n------------------------------------------------------------\n  Bronze     Gold  630.8434   0.0  605.1318   656.555   True\n  Bronze Platinum 1101.8834   0.0 1069.7716 1133.9952   True\n  Bronze   Silver  259.1185   0.0  236.8738  281.3632   True\n    Gold Platinum    471.04   0.0  435.4877  506.5922   True\n    Gold   Silver -371.7249   0.0 -398.6994 -344.7503   True\nPlatinum   Silver -842.7649   0.0 -875.8965 -809.6332   True\n------------------------------------------------------------"
+    },
+    "h4_chisq": {
+        "chi2_stat": 80.0915,
+        "p_value": 3.4206464475164106e-15,
+        "dof": 6,
+        "cramers_v": 0.1634,
+        "contingency_table": {
+            "Cancelled": {
+                "BNPL": 20,
+                "Credit Card": 28,
+                "Debit Card": 24,
+                "UPI": 11
+            },
+            "Completed": {
+                "BNPL": 151,
+                "Credit Card": 481,
+                "Debit Card": 302,
+                "UPI": 328
+            },
+            "Returned": {
+                "BNPL": 55,
+                "Credit Card": 46,
+                "Debit Card": 40,
+                "UPI": 14
+            }
+        },
+        "decision": "Reject H0 (Statistically Significant)"
+    }
+}

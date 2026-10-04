@@ -1,0 +1,1501 @@
+Customer_ID,AB_Group,Checkout_AOV,Converted,Loyalty_Tier,Annual_Spend,Pre_Promo_Spend,Post_Promo_Spend,Payment_Method,Order_Status
+CUST_1000,Control_Legacy,30.51,1,Bronze,306.37,67.47,64.34,Credit Card,Completed
+CUST_1001,Treatment_NewUI,150.33,0,Bronze,254.97,114.68,147.36,UPI,Completed
+CUST_1002,Treatment_NewUI,60.16,0,Silver,671.09,122.47,155.27,BNPL,Completed
+CUST_1003,Treatment_NewUI,53.89,0,Bronze,405.69,108.92,139.26,Credit Card,Completed
+CUST_1004,Control_Legacy,115.95,0,Bronze,154.04,72.62,81.68,Debit Card,Completed
+CUST_1005,Control_Legacy,97.91,0,Bronze,318.24,95.46,103.36,UPI,Completed
+CUST_1006,Control_Legacy,102.2,0,Bronze,409.75,131.74,130.84,UPI,Completed
+CUST_1007,Treatment_NewUI,101.09,0,Bronze,305.07,137.45,157.21,UPI,Completed
+CUST_1008,Treatment_NewUI,75.73,0,Bronze,378.33,119.51,121.81,Credit Card,Completed
+CUST_1009,Treatment_NewUI,87.32,0,Platinum,1507.79,154.71,155.54,Debit Card,Completed
+CUST_1010,Control_Legacy,63.75,0,Bronze,347.33,131.92,144.07,Debit Card,Returned
+CUST_1011,Treatment_NewUI,67.16,0,Silver,550.16,97.58,108.74,BNPL,Completed
+CUST_1012,Treatment_NewUI,116.7,0,Bronze,222.67,111.58,122.02,Credit Card,Completed
+CUST_1013,Control_Legacy,50.95,0,Bronze,230.28,77.91,103.41,BNPL,Completed
+CUST_1014,Control_Legacy,63.89,0,Platinum,1597.34,116.76,136.44,Credit Card,Completed
+CUST_1015,Control_Legacy,80.56,0,Bronze,321.56,153.36,167.54,BNPL,Completed
+CUST_1016,Control_Legacy,87.82,0,Platinum,1385.37,140.56,161.8,UPI,Completed
+CUST_1017,Treatment_NewUI,61.52,1,Bronze,286.09,162.06,165.69,Debit Card,Cancelled
+CUST_1018,Control_Legacy,50.45,0,Gold,895.07,110.91,130.99,UPI,Completed
+CUST_1019,Control_Legacy,95.19,0,Silver,695.16,160.38,181.14,Credit Card,Completed
+CUST_1020,Treatment_NewUI,99.69,1,Gold,889.66,114.2,110.16,Credit Card,Completed
+CUST_1021,Control_Legacy,115.51,0,Silver,432.48,164.15,197.58,Credit Card,Completed
+CUST_1022,Control_Legacy,88.19,0,Silver,661.8,119.34,124.62,Credit Card,Completed
+CUST_1023,Control_Legacy,97.45,0,Bronze,303.61,141.22,161.07,Credit Card,Completed
+CUST_1024,Control_Legacy,70.06,0,Bronze,322.51,164.25,200.22,UPI,Completed
+CUST_1025,Treatment_NewUI,77.96,0,Platinum,1821.89,114.2,146.58,UPI,Completed
+CUST_1026,Control_Legacy,58.14,0,Bronze,318.36,126.55,145.57,Credit Card,Completed
+CUST_1027,Treatment_NewUI,77.22,0,Bronze,343.13,158.67,171.73,BNPL,Completed
+CUST_1028,Treatment_NewUI,86.97,0,Gold,737.79,116.01,148.72,UPI,Completed
+CUST_1029,Control_Legacy,112.95,1,Bronze,302.43,80.37,108.99,BNPL,Completed
+CUST_1030,Treatment_NewUI,73.73,0,Platinum,1572.38,184.29,193.51,UPI,Completed
+CUST_1031,Control_Legacy,132.69,0,Gold,670.03,105.91,112.48,Credit Card,Completed
+CUST_1032,Control_Legacy,99.44,0,Silver,602.09,124.76,112.18,Debit Card,Completed
+CUST_1033,Treatment_NewUI,104.34,1,Gold,968.14,154.68,175.49,UPI,Completed
+CUST_1034,Treatment_NewUI,95.27,0,Bronze,323.3,101.75,119.0,Credit Card,Completed
+CUST_1035,Treatment_NewUI,90.6,0,Bronze,402.97,89.76,125.31,Credit Card,Completed
+CUST_1036,Control_Legacy,73.24,0,Silver,616.79,127.61,151.5,Credit Card,Completed
+CUST_1037,Control_Legacy,55.36,0,Bronze,438.25,66.21,104.72,Credit Card,Completed
+CUST_1038,Treatment_NewUI,74.51,0,Gold,771.15,111.36,119.4,Debit Card,Completed
+CUST_1039,Control_Legacy,121.56,0,Platinum,1453.98,127.35,162.92,Debit Card,Completed
+CUST_1040,Control_Legacy,98.02,0,Silver,589.29,111.9,122.47,Credit Card,Completed
+CUST_1041,Control_Legacy,121.32,1,Bronze,234.46,73.7,103.86,UPI,Completed
+CUST_1042,Control_Legacy,72.7,0,Platinum,1659.07,167.83,164.44,Debit Card,Completed
+CUST_1043,Treatment_NewUI,69.34,0,Silver,835.71,123.11,145.13,Credit Card,Cancelled
+CUST_1044,Control_Legacy,86.25,1,Silver,578.13,162.93,151.66,Credit Card,Completed
+CUST_1045,Treatment_NewUI,75.34,0,Bronze,360.4,112.2,126.69,Credit Card,Completed
+CUST_1046,Control_Legacy,90.64,0,Platinum,1441.13,93.6,118.7,Debit Card,Completed
+CUST_1047,Treatment_NewUI,56.08,0,Silver,501.51,128.08,138.76,Credit Card,Completed
+CUST_1048,Treatment_NewUI,45.35,0,Gold,622.26,113.53,116.27,Debit Card,Completed
+CUST_1049,Control_Legacy,93.73,0,Gold,822.96,84.67,115.86,UPI,Completed
+CUST_1050,Treatment_NewUI,135.18,0,Bronze,208.64,164.09,181.04,Debit Card,Completed
+CUST_1051,Treatment_NewUI,104.47,1,Silver,767.45,101.33,112.49,Credit Card,Completed
+CUST_1052,Treatment_NewUI,107.88,1,Gold,929.28,64.79,83.92,Credit Card,Completed
+CUST_1053,Treatment_NewUI,96.06,0,Bronze,292.33,159.84,217.9,UPI,Completed
+CUST_1054,Treatment_NewUI,98.35,1,Gold,1110.05,104.87,140.67,BNPL,Completed
+CUST_1055,Treatment_NewUI,59.56,0,Platinum,1139.56,101.77,137.7,UPI,Completed
+CUST_1056,Control_Legacy,69.32,0,Silver,495.64,67.04,92.07,Debit Card,Returned
+CUST_1057,Control_Legacy,112.69,0,Gold,962.25,172.23,193.23,Debit Card,Returned
+CUST_1058,Control_Legacy,61.47,0,Gold,1135.18,81.32,63.87,Debit Card,Completed
+CUST_1059,Control_Legacy,78.54,0,Gold,1040.3,121.75,130.07,BNPL,Completed
+CUST_1060,Control_Legacy,112.19,0,Bronze,339.87,147.38,158.67,Credit Card,Completed
+CUST_1061,Control_Legacy,88.62,0,Bronze,326.25,132.65,123.03,BNPL,Completed
+CUST_1062,Treatment_NewUI,98.91,1,Silver,624.03,118.21,119.35,UPI,Cancelled
+CUST_1063,Control_Legacy,78.7,0,Silver,602.18,68.95,57.74,UPI,Completed
+CUST_1064,Control_Legacy,101.08,1,Silver,466.7,95.71,113.63,Credit Card,Completed
+CUST_1065,Treatment_NewUI,117.64,0,Gold,958.29,125.63,156.42,UPI,Completed
+CUST_1066,Control_Legacy,68.21,1,Bronze,234.1,96.38,131.49,Debit Card,Completed
+CUST_1067,Treatment_NewUI,61.58,0,Silver,588.92,126.1,150.82,Credit Card,Completed
+CUST_1068,Control_Legacy,45.1,0,Bronze,281.55,140.45,144.5,Credit Card,Returned
+CUST_1069,Treatment_NewUI,106.65,0,Gold,1407.09,148.88,138.39,BNPL,Returned
+CUST_1070,Treatment_NewUI,103.72,0,Silver,575.61,83.21,75.36,Debit Card,Returned
+CUST_1071,Control_Legacy,140.35,0,Bronze,207.66,185.9,185.36,Debit Card,Completed
+CUST_1072,Control_Legacy,87.3,0,Bronze,309.27,143.02,148.19,Credit Card,Completed
+CUST_1073,Treatment_NewUI,91.78,0,Gold,1043.48,119.95,136.05,UPI,Completed
+CUST_1074,Treatment_NewUI,100.75,0,Silver,764.07,152.69,155.97,UPI,Completed
+CUST_1075,Treatment_NewUI,102.08,0,Bronze,272.84,190.96,214.55,UPI,Cancelled
+CUST_1076,Treatment_NewUI,89.91,1,Platinum,1024.39,76.84,91.85,Debit Card,Completed
+CUST_1077,Control_Legacy,68.87,0,Gold,1097.03,113.24,131.9,Debit Card,Completed
+CUST_1078,Control_Legacy,86.12,0,Platinum,1074.85,48.65,84.25,Debit Card,Completed
+CUST_1079,Control_Legacy,85.3,0,Silver,532.02,125.78,126.58,Credit Card,Completed
+CUST_1080,Treatment_NewUI,93.59,0,Silver,551.66,130.96,155.74,BNPL,Returned
+CUST_1081,Treatment_NewUI,114.24,0,Gold,937.47,118.83,137.12,Debit Card,Completed
+CUST_1082,Control_Legacy,85.73,0,Silver,655.81,100.36,113.86,Credit Card,Completed
+CUST_1083,Control_Legacy,56.64,0,Gold,826.95,58.51,90.29,Debit Card,Completed
+CUST_1084,Control_Legacy,72.09,1,Bronze,298.1,131.21,162.89,UPI,Returned
+CUST_1085,Control_Legacy,81.39,1,Silver,578.43,163.66,167.97,Credit Card,Completed
+CUST_1086,Treatment_NewUI,95.59,0,Bronze,331.97,102.27,118.04,Credit Card,Completed
+CUST_1087,Treatment_NewUI,107.18,0,Bronze,327.83,133.2,155.92,UPI,Completed
+CUST_1088,Treatment_NewUI,95.78,0,Bronze,354.88,72.96,87.36,Credit Card,Returned
+CUST_1089,Control_Legacy,42.04,1,Bronze,387.51,133.72,160.99,UPI,Completed
+CUST_1090,Control_Legacy,58.89,0,Platinum,1518.16,108.2,130.92,Credit Card,Completed
+CUST_1091,Treatment_NewUI,108.9,0,Bronze,356.29,97.13,143.12,UPI,Completed
+CUST_1092,Treatment_NewUI,88.97,1,Silver,405.96,97.19,92.73,Credit Card,Completed
+CUST_1093,Treatment_NewUI,130.72,0,Gold,959.04,108.19,124.86,Credit Card,Completed
+CUST_1094,Treatment_NewUI,97.84,0,Silver,632.75,131.47,136.35,BNPL,Completed
+CUST_1095,Control_Legacy,78.08,0,Bronze,378.32,80.64,108.2,Debit Card,Completed
+CUST_1096,Treatment_NewUI,79.17,0,Gold,825.38,108.09,102.33,Debit Card,Cancelled
+CUST_1097,Control_Legacy,78.85,1,Silver,507.51,118.76,142.45,Credit Card,Completed
+CUST_1098,Control_Legacy,89.03,0,Gold,846.66,87.03,96.08,UPI,Completed
+CUST_1099,Control_Legacy,85.57,0,Gold,1046.55,173.9,181.39,Debit Card,Completed
+CUST_1100,Control_Legacy,106.39,0,Platinum,1678.47,94.4,91.2,BNPL,Returned
+CUST_1101,Treatment_NewUI,57.82,0,Silver,535.18,99.92,111.44,BNPL,Completed
+CUST_1102,Control_Legacy,55.43,0,Bronze,392.64,90.65,125.42,UPI,Completed
+CUST_1103,Treatment_NewUI,88.69,0,Silver,593.58,173.95,192.08,Debit Card,Completed
+CUST_1104,Treatment_NewUI,107.47,0,Bronze,310.06,136.59,164.5,Debit Card,Completed
+CUST_1105,Control_Legacy,102.2,1,Gold,911.95,91.9,135.37,UPI,Completed
+CUST_1106,Control_Legacy,72.82,1,Bronze,379.73,153.19,175.64,Credit Card,Completed
+CUST_1107,Treatment_NewUI,30.72,0,Bronze,346.05,126.02,136.14,Credit Card,Completed
+CUST_1108,Control_Legacy,73.48,0,Gold,1359.65,127.72,153.23,Credit Card,Completed
+CUST_1109,Control_Legacy,94.12,0,Silver,486.26,109.67,120.0,Credit Card,Completed
+CUST_1110,Control_Legacy,85.16,1,Bronze,361.45,97.52,108.45,Credit Card,Completed
+CUST_1111,Control_Legacy,98.24,0,Silver,521.79,130.13,125.83,Debit Card,Completed
+CUST_1112,Treatment_NewUI,123.52,1,Gold,793.53,103.65,136.04,UPI,Returned
+CUST_1113,Treatment_NewUI,90.32,0,Bronze,319.13,174.5,187.21,Debit Card,Cancelled
+CUST_1114,Treatment_NewUI,83.34,0,Gold,974.72,81.92,103.15,Credit Card,Cancelled
+CUST_1115,Treatment_NewUI,72.52,0,Bronze,553.45,166.08,169.05,Credit Card,Completed
+CUST_1116,Treatment_NewUI,60.59,0,Gold,916.85,116.66,141.7,Debit Card,Completed
+CUST_1117,Control_Legacy,50.0,0,Gold,746.57,128.97,136.04,Credit Card,Completed
+CUST_1118,Treatment_NewUI,77.81,0,Bronze,341.84,144.99,161.37,UPI,Completed
+CUST_1119,Treatment_NewUI,119.68,0,Silver,351.79,101.09,132.76,BNPL,Completed
+CUST_1120,Treatment_NewUI,110.81,1,Bronze,312.64,145.93,176.29,Credit Card,Returned
+CUST_1121,Treatment_NewUI,82.25,0,Gold,952.88,38.77,56.94,Credit Card,Completed
+CUST_1122,Control_Legacy,132.96,0,Silver,667.41,98.4,90.38,Debit Card,Completed
+CUST_1123,Control_Legacy,72.17,0,Silver,687.1,92.28,155.67,BNPL,Completed
+CUST_1124,Control_Legacy,114.14,1,Bronze,279.71,82.39,127.08,UPI,Returned
+CUST_1125,Control_Legacy,119.85,0,Bronze,307.95,113.55,142.89,BNPL,Returned
+CUST_1126,Treatment_NewUI,105.47,0,Bronze,258.71,131.57,138.77,Credit Card,Completed
+CUST_1127,Treatment_NewUI,77.6,0,Bronze,229.75,141.08,157.88,BNPL,Returned
+CUST_1128,Control_Legacy,77.46,1,Silver,614.09,127.23,137.57,Credit Card,Completed
+CUST_1129,Treatment_NewUI,98.72,1,Gold,720.75,100.03,137.49,Credit Card,Completed
+CUST_1130,Control_Legacy,55.86,0,Silver,534.39,131.07,153.51,BNPL,Completed
+CUST_1131,Control_Legacy,64.12,0,Silver,470.53,123.73,130.47,BNPL,Completed
+CUST_1132,Control_Legacy,62.47,0,Platinum,1557.42,148.08,159.52,Credit Card,Completed
+CUST_1133,Control_Legacy,97.31,1,Gold,1274.26,143.31,178.63,Credit Card,Completed
+CUST_1134,Treatment_NewUI,123.25,0,Platinum,1094.6,120.91,163.42,Credit Card,Cancelled
+CUST_1135,Control_Legacy,101.32,1,Silver,376.17,93.08,134.51,Credit Card,Completed
+CUST_1136,Treatment_NewUI,118.6,0,Bronze,310.01,100.41,130.27,Credit Card,Completed
+CUST_1137,Treatment_NewUI,75.66,0,Bronze,321.26,103.51,118.22,BNPL,Completed
+CUST_1138,Control_Legacy,78.4,0,Gold,989.36,110.54,80.42,UPI,Completed
+CUST_1139,Treatment_NewUI,88.05,0,Bronze,284.29,128.04,151.0,UPI,Completed
+CUST_1140,Treatment_NewUI,105.37,1,Bronze,303.95,141.46,159.93,UPI,Completed
+CUST_1141,Control_Legacy,133.13,0,Silver,620.43,118.47,139.07,Debit Card,Completed
+CUST_1142,Control_Legacy,71.34,0,Silver,694.45,120.48,139.79,UPI,Completed
+CUST_1143,Control_Legacy,105.91,0,Silver,364.94,124.3,122.91,Debit Card,Completed
+CUST_1144,Control_Legacy,119.13,0,Bronze,290.48,104.52,131.38,Credit Card,Completed
+CUST_1145,Control_Legacy,96.67,0,Bronze,337.1,92.24,120.22,Debit Card,Completed
+CUST_1146,Treatment_NewUI,85.26,0,Silver,479.02,67.34,96.07,Debit Card,Completed
+CUST_1147,Treatment_NewUI,73.64,0,Platinum,1852.79,99.15,131.84,UPI,Completed
+CUST_1148,Control_Legacy,62.51,0,Gold,835.63,134.19,161.76,BNPL,Completed
+CUST_1149,Control_Legacy,42.24,0,Platinum,1409.68,98.91,111.26,Debit Card,Completed
+CUST_1150,Treatment_NewUI,88.78,0,Gold,1050.08,112.87,130.3,UPI,Completed
+CUST_1151,Control_Legacy,79.41,0,Silver,514.96,133.99,153.86,Credit Card,Cancelled
+CUST_1152,Control_Legacy,104.43,0,Bronze,172.27,135.62,155.74,UPI,Completed
+CUST_1153,Control_Legacy,72.67,0,Silver,532.85,87.61,121.09,Debit Card,Completed
+CUST_1154,Treatment_NewUI,90.11,0,Silver,693.24,149.91,178.07,Credit Card,Completed
+CUST_1155,Control_Legacy,91.72,0,Silver,542.94,153.82,203.48,Debit Card,Completed
+CUST_1156,Treatment_NewUI,106.23,0,Silver,486.89,86.1,137.7,UPI,Completed
+CUST_1157,Treatment_NewUI,112.2,0,Silver,681.82,95.28,114.98,Credit Card,Completed
+CUST_1158,Control_Legacy,89.48,0,Bronze,293.54,155.73,116.68,BNPL,Completed
+CUST_1159,Treatment_NewUI,62.43,0,Silver,523.88,115.59,152.65,Credit Card,Completed
+CUST_1160,Control_Legacy,94.29,0,Bronze,331.96,53.41,63.8,BNPL,Returned
+CUST_1161,Treatment_NewUI,78.24,0,Gold,1088.74,78.01,84.49,UPI,Completed
+CUST_1162,Treatment_NewUI,124.54,0,Bronze,510.54,112.52,125.04,Credit Card,Completed
+CUST_1163,Treatment_NewUI,94.72,0,Bronze,386.18,85.11,96.91,Debit Card,Returned
+CUST_1164,Control_Legacy,90.8,0,Silver,707.58,107.6,135.28,UPI,Completed
+CUST_1165,Treatment_NewUI,157.94,0,Silver,524.34,120.97,116.08,UPI,Completed
+CUST_1166,Control_Legacy,102.07,0,Silver,467.15,163.87,166.2,UPI,Completed
+CUST_1167,Control_Legacy,93.89,0,Bronze,324.99,111.29,134.93,Debit Card,Completed
+CUST_1168,Control_Legacy,82.45,1,Silver,591.79,152.18,180.02,Debit Card,Cancelled
+CUST_1169,Treatment_NewUI,64.2,0,Bronze,233.72,162.86,190.99,BNPL,Completed
+CUST_1170,Treatment_NewUI,89.08,0,Platinum,1376.18,163.03,169.72,Credit Card,Completed
+CUST_1171,Control_Legacy,66.79,0,Platinum,1519.83,128.54,132.37,Debit Card,Completed
+CUST_1172,Treatment_NewUI,135.11,0,Silver,619.64,61.1,72.0,Credit Card,Completed
+CUST_1173,Control_Legacy,94.18,0,Bronze,360.34,133.82,155.92,UPI,Completed
+CUST_1174,Treatment_NewUI,123.52,0,Gold,1002.37,151.45,192.23,UPI,Completed
+CUST_1175,Control_Legacy,72.08,1,Bronze,279.44,117.57,105.36,Credit Card,Completed
+CUST_1176,Treatment_NewUI,74.97,0,Silver,523.47,172.34,187.53,Credit Card,Completed
+CUST_1177,Control_Legacy,99.76,0,Bronze,224.08,145.8,144.3,Credit Card,Completed
+CUST_1178,Treatment_NewUI,72.46,0,Platinum,1866.19,137.05,130.76,Debit Card,Completed
+CUST_1179,Control_Legacy,75.88,0,Bronze,321.08,152.59,185.6,Debit Card,Completed
+CUST_1180,Control_Legacy,123.49,0,Silver,555.27,130.0,156.67,BNPL,Completed
+CUST_1181,Control_Legacy,76.71,0,Gold,782.82,45.22,70.46,Debit Card,Completed
+CUST_1182,Treatment_NewUI,59.45,0,Silver,902.92,105.03,137.34,Credit Card,Completed
+CUST_1183,Treatment_NewUI,51.06,1,Bronze,234.13,155.92,167.22,BNPL,Returned
+CUST_1184,Control_Legacy,51.94,0,Platinum,1312.79,95.77,107.78,Debit Card,Cancelled
+CUST_1185,Treatment_NewUI,125.13,1,Silver,625.74,113.3,164.58,Debit Card,Completed
+CUST_1186,Treatment_NewUI,80.68,0,Silver,646.02,88.65,103.46,Credit Card,Returned
+CUST_1187,Treatment_NewUI,156.88,1,Bronze,396.63,173.52,203.04,Debit Card,Completed
+CUST_1188,Treatment_NewUI,131.98,0,Silver,778.84,170.44,189.04,BNPL,Returned
+CUST_1189,Control_Legacy,129.63,0,Silver,635.68,93.48,84.26,Debit Card,Completed
+CUST_1190,Control_Legacy,108.03,0,Bronze,235.52,124.42,112.25,Credit Card,Cancelled
+CUST_1191,Treatment_NewUI,108.72,0,Bronze,299.44,99.59,109.4,UPI,Completed
+CUST_1192,Treatment_NewUI,74.15,1,Gold,1005.41,138.45,172.79,BNPL,Returned
+CUST_1193,Treatment_NewUI,94.12,0,Bronze,485.46,135.29,165.61,Credit Card,Completed
+CUST_1194,Control_Legacy,100.82,0,Bronze,208.18,144.35,176.56,Debit Card,Completed
+CUST_1195,Control_Legacy,106.52,0,Silver,712.28,129.96,133.65,BNPL,Completed
+CUST_1196,Treatment_NewUI,66.23,0,Gold,982.38,208.06,250.8,Credit Card,Completed
+CUST_1197,Treatment_NewUI,89.46,0,Bronze,387.03,89.16,93.19,UPI,Completed
+CUST_1198,Treatment_NewUI,92.17,0,Silver,568.78,68.68,90.37,UPI,Completed
+CUST_1199,Treatment_NewUI,91.22,0,Bronze,252.61,108.21,126.55,UPI,Completed
+CUST_1200,Treatment_NewUI,69.11,0,Bronze,380.07,72.96,88.85,Debit Card,Completed
+CUST_1201,Control_Legacy,126.29,0,Bronze,372.35,75.23,113.81,Credit Card,Completed
+CUST_1202,Control_Legacy,80.52,0,Gold,1124.97,89.96,97.88,UPI,Completed
+CUST_1203,Treatment_NewUI,70.69,0,Bronze,318.94,92.33,90.59,Credit Card,Completed
+CUST_1204,Treatment_NewUI,140.37,1,Bronze,272.01,91.36,110.16,Debit Card,Completed
+CUST_1205,Control_Legacy,119.45,0,Silver,408.53,135.55,148.05,Credit Card,Completed
+CUST_1206,Control_Legacy,88.6,0,Gold,1097.49,104.81,173.98,Credit Card,Completed
+CUST_1207,Treatment_NewUI,50.87,0,Bronze,353.91,114.61,143.26,BNPL,Completed
+CUST_1208,Control_Legacy,75.25,0,Silver,473.76,146.83,159.19,Debit Card,Completed
+CUST_1209,Control_Legacy,50.42,0,Bronze,276.91,97.01,99.67,BNPL,Completed
+CUST_1210,Treatment_NewUI,106.78,0,Silver,528.66,112.06,102.36,Credit Card,Cancelled
+CUST_1211,Treatment_NewUI,81.15,0,Silver,416.87,130.97,134.09,Debit Card,Completed
+CUST_1212,Treatment_NewUI,93.53,0,Silver,490.05,61.75,81.98,Credit Card,Completed
+CUST_1213,Control_Legacy,124.49,0,Bronze,229.29,48.45,88.36,UPI,Completed
+CUST_1214,Treatment_NewUI,79.45,0,Bronze,287.0,130.38,165.71,UPI,Completed
+CUST_1215,Control_Legacy,95.81,1,Bronze,260.9,134.76,156.7,Credit Card,Completed
+CUST_1216,Control_Legacy,102.35,0,Bronze,189.84,181.93,195.58,BNPL,Completed
+CUST_1217,Treatment_NewUI,124.26,1,Bronze,481.81,124.74,147.28,Credit Card,Completed
+CUST_1218,Treatment_NewUI,91.75,0,Gold,1175.46,144.59,155.31,UPI,Completed
+CUST_1219,Treatment_NewUI,89.21,0,Platinum,1225.25,114.14,158.41,BNPL,Completed
+CUST_1220,Treatment_NewUI,88.65,0,Platinum,1488.11,128.92,144.58,BNPL,Completed
+CUST_1221,Treatment_NewUI,103.2,0,Gold,1025.14,170.02,187.22,BNPL,Cancelled
+CUST_1222,Control_Legacy,118.34,1,Silver,711.02,56.28,41.54,Credit Card,Completed
+CUST_1223,Control_Legacy,79.54,0,Gold,802.65,132.41,147.98,Credit Card,Completed
+CUST_1224,Control_Legacy,32.17,0,Bronze,407.37,184.07,215.11,Credit Card,Cancelled
+CUST_1225,Control_Legacy,104.95,0,Silver,519.73,128.46,130.95,Debit Card,Completed
+CUST_1226,Treatment_NewUI,95.84,0,Silver,433.06,169.52,176.76,UPI,Completed
+CUST_1227,Control_Legacy,96.85,1,Silver,659.66,101.12,131.51,Credit Card,Completed
+CUST_1228,Treatment_NewUI,55.92,0,Gold,1182.34,119.04,115.39,UPI,Completed
+CUST_1229,Treatment_NewUI,81.24,0,Bronze,527.03,121.01,155.37,Credit Card,Completed
+CUST_1230,Treatment_NewUI,113.66,0,Bronze,224.02,53.47,63.99,Credit Card,Completed
+CUST_1231,Treatment_NewUI,63.47,0,Platinum,1594.73,84.95,97.63,UPI,Completed
+CUST_1232,Treatment_NewUI,105.63,0,Bronze,287.22,87.09,88.74,Debit Card,Completed
+CUST_1233,Control_Legacy,84.72,0,Silver,666.17,144.66,168.83,UPI,Completed
+CUST_1234,Control_Legacy,69.34,0,Platinum,1052.38,146.16,201.56,Credit Card,Completed
+CUST_1235,Treatment_NewUI,74.35,0,Silver,441.1,129.72,159.94,UPI,Completed
+CUST_1236,Control_Legacy,63.15,0,Silver,494.65,144.72,150.26,Credit Card,Completed
+CUST_1237,Control_Legacy,86.86,0,Bronze,326.32,115.08,150.61,Credit Card,Completed
+CUST_1238,Treatment_NewUI,98.52,0,Bronze,268.71,156.06,169.81,UPI,Completed
+CUST_1239,Control_Legacy,77.43,1,Gold,1068.63,120.26,159.38,BNPL,Completed
+CUST_1240,Treatment_NewUI,67.93,1,Silver,692.96,121.74,152.34,Credit Card,Cancelled
+CUST_1241,Treatment_NewUI,22.63,0,Silver,645.95,112.03,86.39,Credit Card,Completed
+CUST_1242,Treatment_NewUI,104.9,0,Bronze,449.5,140.53,143.97,Debit Card,Completed
+CUST_1243,Control_Legacy,105.39,0,Bronze,353.27,107.36,140.03,Credit Card,Completed
+CUST_1244,Control_Legacy,99.12,1,Platinum,1115.78,149.29,170.07,UPI,Completed
+CUST_1245,Treatment_NewUI,144.61,0,Bronze,429.07,86.04,89.18,UPI,Completed
+CUST_1246,Control_Legacy,81.48,1,Silver,513.43,87.03,96.03,Credit Card,Completed
+CUST_1247,Treatment_NewUI,127.88,0,Bronze,392.83,140.62,130.53,Debit Card,Completed
+CUST_1248,Treatment_NewUI,78.37,1,Silver,753.11,117.34,134.52,UPI,Completed
+CUST_1249,Treatment_NewUI,74.62,0,Platinum,1534.17,106.38,158.04,Credit Card,Completed
+CUST_1250,Control_Legacy,88.2,0,Silver,415.42,146.7,177.28,UPI,Completed
+CUST_1251,Control_Legacy,121.24,0,Bronze,246.54,101.78,153.14,Credit Card,Returned
+CUST_1252,Treatment_NewUI,87.05,0,Silver,725.5,113.99,145.73,UPI,Completed
+CUST_1253,Control_Legacy,51.11,0,Gold,919.56,161.98,195.89,Credit Card,Completed
+CUST_1254,Control_Legacy,104.93,0,Silver,588.75,166.17,214.29,UPI,Completed
+CUST_1255,Treatment_NewUI,92.29,0,Gold,1086.59,167.17,191.33,Debit Card,Completed
+CUST_1256,Treatment_NewUI,101.52,0,Silver,656.6,111.54,127.23,Credit Card,Completed
+CUST_1257,Treatment_NewUI,75.78,0,Gold,1000.18,156.92,190.91,UPI,Completed
+CUST_1258,Treatment_NewUI,96.98,0,Silver,557.05,91.53,131.84,Credit Card,Completed
+CUST_1259,Control_Legacy,53.86,0,Bronze,294.99,92.79,104.09,Debit Card,Completed
+CUST_1260,Treatment_NewUI,140.1,0,Bronze,388.63,49.49,57.16,Debit Card,Completed
+CUST_1261,Treatment_NewUI,120.66,0,Bronze,364.29,170.19,190.77,Credit Card,Returned
+CUST_1262,Control_Legacy,86.99,0,Platinum,1355.67,94.08,125.05,BNPL,Completed
+CUST_1263,Treatment_NewUI,115.09,0,Gold,1144.78,116.2,146.68,UPI,Completed
+CUST_1264,Treatment_NewUI,78.43,0,Silver,565.81,92.69,89.83,Credit Card,Completed
+CUST_1265,Treatment_NewUI,119.43,0,Bronze,251.87,140.85,188.03,UPI,Completed
+CUST_1266,Treatment_NewUI,86.0,1,Bronze,259.28,108.73,117.61,Debit Card,Completed
+CUST_1267,Treatment_NewUI,84.31,0,Gold,773.83,80.86,95.38,BNPL,Cancelled
+CUST_1268,Control_Legacy,64.49,0,Silver,550.03,133.25,138.21,Credit Card,Completed
+CUST_1269,Control_Legacy,94.82,0,Bronze,418.7,76.99,135.96,Debit Card,Completed
+CUST_1270,Treatment_NewUI,94.79,0,Silver,491.44,94.88,117.01,Debit Card,Completed
+CUST_1271,Treatment_NewUI,128.8,0,Bronze,335.08,56.79,62.53,Debit Card,Completed
+CUST_1272,Treatment_NewUI,68.17,0,Bronze,267.46,77.28,108.74,Debit Card,Completed
+CUST_1273,Treatment_NewUI,104.69,0,Silver,551.37,125.36,155.39,Credit Card,Returned
+CUST_1274,Treatment_NewUI,123.29,0,Bronze,199.2,61.06,76.75,UPI,Completed
+CUST_1275,Treatment_NewUI,157.64,0,Platinum,1364.87,75.57,106.67,Debit Card,Completed
+CUST_1276,Treatment_NewUI,98.96,1,Bronze,304.5,119.93,126.05,BNPL,Completed
+CUST_1277,Treatment_NewUI,85.55,0,Bronze,363.22,103.69,114.8,Credit Card,Completed
+CUST_1278,Treatment_NewUI,98.33,0,Bronze,337.86,179.76,168.11,UPI,Completed
+CUST_1279,Treatment_NewUI,126.48,0,Gold,734.29,175.02,173.66,BNPL,Returned
+CUST_1280,Treatment_NewUI,126.47,0,Silver,699.26,93.96,139.58,UPI,Completed
+CUST_1281,Control_Legacy,82.9,0,Silver,603.13,136.71,179.84,BNPL,Cancelled
+CUST_1282,Control_Legacy,114.03,0,Bronze,335.87,142.48,161.97,UPI,Completed
+CUST_1283,Control_Legacy,85.0,0,Bronze,319.27,102.08,145.52,Debit Card,Completed
+CUST_1284,Treatment_NewUI,114.8,1,Silver,523.05,75.13,91.23,UPI,Completed
+CUST_1285,Control_Legacy,97.53,0,Gold,989.2,119.63,134.48,Credit Card,Completed
+CUST_1286,Control_Legacy,76.88,0,Gold,1035.61,114.81,134.16,Debit Card,Cancelled
+CUST_1287,Treatment_NewUI,71.6,0,Bronze,180.25,106.93,123.55,Credit Card,Completed
+CUST_1288,Control_Legacy,112.28,0,Silver,520.74,133.27,148.54,UPI,Completed
+CUST_1289,Treatment_NewUI,131.47,0,Platinum,1356.26,97.48,133.13,Debit Card,Completed
+CUST_1290,Control_Legacy,94.38,0,Bronze,340.49,85.44,106.19,Debit Card,Completed
+CUST_1291,Control_Legacy,84.97,1,Gold,1164.8,123.27,152.46,Credit Card,Completed
+CUST_1292,Treatment_NewUI,65.31,0,Bronze,258.26,131.58,165.55,BNPL,Completed
+CUST_1293,Control_Legacy,111.63,1,Platinum,1295.51,84.7,109.02,Credit Card,Completed
+CUST_1294,Control_Legacy,91.73,0,Gold,857.74,147.84,151.79,Credit Card,Returned
+CUST_1295,Treatment_NewUI,87.86,0,Platinum,1219.62,66.89,65.09,Credit Card,Completed
+CUST_1296,Treatment_NewUI,115.55,0,Silver,541.81,102.66,123.39,BNPL,Returned
+CUST_1297,Control_Legacy,55.89,0,Bronze,381.66,112.26,128.19,BNPL,Completed
+CUST_1298,Treatment_NewUI,69.69,1,Platinum,1156.54,100.91,120.72,UPI,Completed
+CUST_1299,Control_Legacy,70.59,0,Bronze,354.23,103.05,121.31,BNPL,Completed
+CUST_1300,Control_Legacy,96.81,0,Bronze,183.85,176.13,233.39,Credit Card,Completed
+CUST_1301,Treatment_NewUI,98.6,0,Gold,848.96,94.47,93.02,BNPL,Returned
+CUST_1302,Treatment_NewUI,109.75,0,Gold,890.69,193.24,181.89,Credit Card,Completed
+CUST_1303,Treatment_NewUI,121.39,0,Platinum,1838.71,133.11,156.6,Credit Card,Completed
+CUST_1304,Treatment_NewUI,110.68,1,Bronze,298.02,122.76,135.62,Credit Card,Completed
+CUST_1305,Treatment_NewUI,140.75,0,Gold,553.78,134.29,157.53,Debit Card,Completed
+CUST_1306,Treatment_NewUI,121.32,0,Gold,590.2,195.9,223.16,UPI,Returned
+CUST_1307,Control_Legacy,82.85,0,Bronze,322.72,90.19,127.95,Debit Card,Completed
+CUST_1308,Treatment_NewUI,81.08,0,Bronze,369.1,86.39,82.28,BNPL,Completed
+CUST_1309,Control_Legacy,83.51,0,Bronze,350.04,97.35,107.5,Debit Card,Completed
+CUST_1310,Control_Legacy,101.11,0,Bronze,333.41,120.96,145.9,Credit Card,Completed
+CUST_1311,Control_Legacy,75.92,0,Platinum,1710.56,68.23,98.28,Debit Card,Completed
+CUST_1312,Control_Legacy,101.75,1,Silver,520.64,120.67,172.07,UPI,Completed
+CUST_1313,Treatment_NewUI,109.28,0,Gold,1111.08,170.81,203.64,UPI,Completed
+CUST_1314,Treatment_NewUI,71.28,0,Platinum,1012.0,124.54,142.19,Debit Card,Completed
+CUST_1315,Treatment_NewUI,120.81,0,Bronze,247.6,111.22,116.36,Debit Card,Completed
+CUST_1316,Control_Legacy,93.58,1,Gold,624.73,101.46,111.49,Credit Card,Completed
+CUST_1317,Control_Legacy,125.94,0,Silver,549.77,146.96,156.56,UPI,Completed
+CUST_1318,Control_Legacy,85.07,0,Gold,941.67,95.23,123.55,BNPL,Completed
+CUST_1319,Control_Legacy,78.83,0,Bronze,329.13,175.39,197.75,Credit Card,Returned
+CUST_1320,Treatment_NewUI,68.38,0,Platinum,1435.47,178.0,176.65,BNPL,Completed
+CUST_1321,Treatment_NewUI,68.04,1,Bronze,245.8,127.7,139.66,Debit Card,Cancelled
+CUST_1322,Treatment_NewUI,117.48,0,Bronze,304.78,119.65,151.32,Credit Card,Completed
+CUST_1323,Control_Legacy,123.13,0,Gold,680.46,150.92,174.69,BNPL,Completed
+CUST_1324,Treatment_NewUI,91.64,0,Bronze,429.06,152.84,179.87,Debit Card,Completed
+CUST_1325,Treatment_NewUI,90.06,1,Silver,546.6,95.82,120.06,Credit Card,Completed
+CUST_1326,Treatment_NewUI,95.92,1,Silver,526.22,104.2,147.1,Credit Card,Completed
+CUST_1327,Treatment_NewUI,122.67,0,Gold,1236.01,80.33,102.37,Credit Card,Completed
+CUST_1328,Control_Legacy,65.1,1,Bronze,220.62,132.27,144.98,UPI,Completed
+CUST_1329,Control_Legacy,90.74,0,Bronze,229.95,140.0,144.76,UPI,Completed
+CUST_1330,Control_Legacy,106.95,0,Bronze,232.3,79.5,101.75,BNPL,Completed
+CUST_1331,Treatment_NewUI,106.48,0,Silver,572.53,106.34,88.23,Credit Card,Completed
+CUST_1332,Control_Legacy,26.03,0,Bronze,354.53,79.58,95.32,Credit Card,Completed
+CUST_1333,Control_Legacy,100.41,0,Bronze,379.17,93.04,108.45,Credit Card,Returned
+CUST_1334,Control_Legacy,96.75,0,Bronze,525.76,136.53,134.56,Debit Card,Completed
+CUST_1335,Control_Legacy,115.72,0,Bronze,140.05,98.0,102.57,BNPL,Completed
+CUST_1336,Treatment_NewUI,133.7,0,Silver,646.96,110.98,141.62,UPI,Completed
+CUST_1337,Treatment_NewUI,126.42,0,Gold,849.72,71.18,93.14,Credit Card,Returned
+CUST_1338,Control_Legacy,87.16,1,Bronze,273.09,125.61,145.64,BNPL,Cancelled
+CUST_1339,Control_Legacy,50.26,0,Silver,511.83,118.67,141.77,UPI,Completed
+CUST_1340,Control_Legacy,133.26,0,Silver,480.04,98.13,118.02,Credit Card,Cancelled
+CUST_1341,Control_Legacy,81.63,0,Silver,765.3,114.33,151.47,UPI,Completed
+CUST_1342,Control_Legacy,86.46,0,Gold,1101.61,125.41,145.76,Credit Card,Cancelled
+CUST_1343,Control_Legacy,122.79,1,Silver,582.55,95.55,92.18,Credit Card,Completed
+CUST_1344,Control_Legacy,69.17,0,Silver,728.61,75.71,118.66,Credit Card,Completed
+CUST_1345,Treatment_NewUI,61.86,1,Bronze,199.0,174.17,198.22,Debit Card,Completed
+CUST_1346,Treatment_NewUI,83.68,0,Silver,433.62,101.0,110.66,Debit Card,Completed
+CUST_1347,Control_Legacy,70.27,0,Silver,340.42,117.1,116.8,Credit Card,Completed
+CUST_1348,Control_Legacy,54.56,0,Bronze,264.05,150.33,174.76,Credit Card,Completed
+CUST_1349,Treatment_NewUI,92.16,0,Bronze,332.94,225.87,242.61,UPI,Completed
+CUST_1350,Treatment_NewUI,96.22,1,Platinum,1445.71,82.67,124.78,BNPL,Cancelled
+CUST_1351,Treatment_NewUI,58.49,1,Silver,596.43,133.49,146.81,UPI,Completed
+CUST_1352,Treatment_NewUI,86.62,0,Silver,424.78,98.77,104.71,Credit Card,Completed
+CUST_1353,Control_Legacy,68.95,0,Platinum,1620.79,103.84,135.77,Credit Card,Completed
+CUST_1354,Control_Legacy,44.25,0,Gold,993.13,98.39,130.77,Credit Card,Cancelled
+CUST_1355,Treatment_NewUI,97.02,0,Silver,660.64,86.23,107.26,Credit Card,Returned
+CUST_1356,Control_Legacy,90.19,1,Gold,609.3,118.76,147.41,Debit Card,Completed
+CUST_1357,Treatment_NewUI,75.78,0,Gold,1006.07,75.76,93.7,UPI,Completed
+CUST_1358,Treatment_NewUI,120.56,0,Silver,449.35,148.4,170.41,UPI,Completed
+CUST_1359,Treatment_NewUI,94.72,0,Silver,536.29,121.65,157.62,UPI,Completed
+CUST_1360,Control_Legacy,69.92,0,Bronze,362.75,132.67,160.55,Credit Card,Completed
+CUST_1361,Treatment_NewUI,57.11,0,Platinum,1442.77,106.01,121.98,Credit Card,Returned
+CUST_1362,Control_Legacy,91.38,0,Silver,486.33,108.98,147.77,UPI,Completed
+CUST_1363,Treatment_NewUI,106.66,0,Bronze,320.5,128.63,111.65,Credit Card,Completed
+CUST_1364,Treatment_NewUI,82.37,0,Gold,674.32,85.08,134.36,Credit Card,Completed
+CUST_1365,Control_Legacy,88.73,1,Silver,706.53,109.26,102.17,Debit Card,Completed
+CUST_1366,Treatment_NewUI,133.7,1,Bronze,303.58,94.21,103.31,Credit Card,Completed
+CUST_1367,Treatment_NewUI,116.17,0,Silver,703.04,93.28,111.17,Credit Card,Completed
+CUST_1368,Control_Legacy,38.16,1,Silver,522.08,56.7,73.01,UPI,Completed
+CUST_1369,Control_Legacy,69.68,0,Gold,855.76,160.18,193.78,BNPL,Returned
+CUST_1370,Control_Legacy,82.61,1,Bronze,258.87,99.4,102.04,Credit Card,Completed
+CUST_1371,Control_Legacy,87.19,0,Gold,1107.71,154.9,177.31,Credit Card,Completed
+CUST_1372,Control_Legacy,89.21,0,Silver,501.96,152.06,161.89,UPI,Returned
+CUST_1373,Treatment_NewUI,105.03,0,Bronze,371.57,81.42,104.35,Credit Card,Completed
+CUST_1374,Control_Legacy,83.33,0,Platinum,1324.39,87.35,104.88,Debit Card,Completed
+CUST_1375,Control_Legacy,85.91,0,Silver,362.64,196.82,216.71,Credit Card,Completed
+CUST_1376,Treatment_NewUI,117.55,0,Bronze,274.37,172.53,182.78,Credit Card,Completed
+CUST_1377,Control_Legacy,91.82,1,Silver,450.3,119.05,129.9,UPI,Completed
+CUST_1378,Treatment_NewUI,66.18,1,Gold,956.1,127.72,150.53,UPI,Completed
+CUST_1379,Control_Legacy,87.89,0,Bronze,224.77,101.07,133.73,Credit Card,Completed
+CUST_1380,Control_Legacy,82.67,0,Bronze,394.08,132.97,142.5,Credit Card,Completed
+CUST_1381,Treatment_NewUI,48.09,1,Bronze,312.71,98.48,103.95,Credit Card,Completed
+CUST_1382,Treatment_NewUI,98.12,0,Bronze,305.79,59.03,86.73,Credit Card,Completed
+CUST_1383,Treatment_NewUI,69.02,0,Gold,1068.06,80.35,98.37,BNPL,Completed
+CUST_1384,Treatment_NewUI,117.95,0,Silver,686.03,120.63,151.59,UPI,Returned
+CUST_1385,Treatment_NewUI,104.67,0,Bronze,318.39,86.07,90.98,Debit Card,Completed
+CUST_1386,Control_Legacy,59.24,0,Bronze,258.3,117.98,109.79,UPI,Completed
+CUST_1387,Control_Legacy,105.72,0,Bronze,178.08,87.76,98.27,UPI,Completed
+CUST_1388,Treatment_NewUI,128.32,0,Platinum,1248.49,96.53,103.53,UPI,Completed
+CUST_1389,Treatment_NewUI,88.07,0,Bronze,270.62,145.59,162.91,Credit Card,Completed
+CUST_1390,Treatment_NewUI,90.91,0,Platinum,1446.76,127.42,136.37,Credit Card,Completed
+CUST_1391,Control_Legacy,103.34,0,Silver,542.03,119.71,149.33,UPI,Completed
+CUST_1392,Control_Legacy,114.2,0,Bronze,375.03,146.37,160.55,Debit Card,Completed
+CUST_1393,Treatment_NewUI,53.47,0,Gold,839.66,134.42,155.18,BNPL,Returned
+CUST_1394,Control_Legacy,61.5,0,Silver,573.73,163.4,184.26,UPI,Completed
+CUST_1395,Treatment_NewUI,84.14,1,Gold,1163.12,106.2,127.63,BNPL,Completed
+CUST_1396,Treatment_NewUI,86.65,1,Platinum,1505.46,107.11,125.25,Credit Card,Completed
+CUST_1397,Control_Legacy,102.65,1,Bronze,315.2,80.97,107.13,BNPL,Cancelled
+CUST_1398,Treatment_NewUI,126.3,0,Bronze,271.84,107.13,113.7,Credit Card,Completed
+CUST_1399,Treatment_NewUI,128.39,1,Gold,836.02,148.94,188.43,BNPL,Returned
+CUST_1400,Control_Legacy,48.46,0,Bronze,251.95,159.0,173.95,Credit Card,Completed
+CUST_1401,Treatment_NewUI,74.46,0,Bronze,276.72,148.81,147.64,Debit Card,Completed
+CUST_1402,Treatment_NewUI,63.96,0,Bronze,380.45,66.17,87.5,UPI,Completed
+CUST_1403,Treatment_NewUI,79.68,0,Bronze,302.25,152.49,158.23,Debit Card,Completed
+CUST_1404,Control_Legacy,67.69,0,Gold,707.04,64.84,93.32,Debit Card,Returned
+CUST_1405,Treatment_NewUI,104.59,1,Bronze,461.45,146.94,198.59,BNPL,Completed
+CUST_1406,Control_Legacy,97.52,0,Silver,615.2,108.97,115.67,Debit Card,Cancelled
+CUST_1407,Control_Legacy,85.64,1,Silver,425.24,141.08,164.56,UPI,Completed
+CUST_1408,Treatment_NewUI,92.04,1,Silver,531.4,80.03,72.19,Credit Card,Completed
+CUST_1409,Control_Legacy,77.36,1,Bronze,328.87,155.14,180.44,UPI,Completed
+CUST_1410,Control_Legacy,79.81,0,Gold,1256.83,76.05,81.27,UPI,Completed
+CUST_1411,Treatment_NewUI,133.37,0,Bronze,231.35,99.95,109.07,Debit Card,Completed
+CUST_1412,Treatment_NewUI,111.28,0,Gold,1125.69,90.06,92.04,Credit Card,Completed
+CUST_1413,Treatment_NewUI,86.02,0,Gold,1201.91,67.37,96.85,Debit Card,Completed
+CUST_1414,Treatment_NewUI,91.57,0,Silver,510.85,122.84,156.45,Credit Card,Completed
+CUST_1415,Control_Legacy,95.35,0,Silver,549.47,174.18,193.03,Credit Card,Completed
+CUST_1416,Control_Legacy,59.23,0,Silver,466.01,200.01,205.54,UPI,Completed
+CUST_1417,Control_Legacy,88.64,0,Bronze,303.72,122.91,165.26,Credit Card,Completed
+CUST_1418,Treatment_NewUI,109.83,0,Gold,943.41,153.5,160.74,Credit Card,Completed
+CUST_1419,Treatment_NewUI,106.47,0,Gold,1068.74,126.96,113.03,UPI,Completed
+CUST_1420,Treatment_NewUI,74.9,1,Bronze,407.21,134.97,160.34,Credit Card,Returned
+CUST_1421,Treatment_NewUI,78.99,0,Silver,497.71,109.74,111.66,Credit Card,Completed
+CUST_1422,Control_Legacy,41.96,0,Platinum,928.17,125.85,159.18,Credit Card,Completed
+CUST_1423,Control_Legacy,101.95,1,Platinum,1414.69,136.12,148.91,Debit Card,Completed
+CUST_1424,Control_Legacy,131.13,0,Silver,612.29,102.65,130.2,UPI,Completed
+CUST_1425,Treatment_NewUI,71.68,0,Silver,607.44,117.68,157.2,UPI,Completed
+CUST_1426,Control_Legacy,109.72,0,Bronze,293.87,118.25,118.61,Credit Card,Completed
+CUST_1427,Treatment_NewUI,142.18,0,Platinum,1451.19,144.79,154.8,Credit Card,Completed
+CUST_1428,Control_Legacy,75.26,0,Bronze,441.24,88.02,105.38,Credit Card,Completed
+CUST_1429,Control_Legacy,83.17,0,Silver,621.99,118.45,160.02,Debit Card,Completed
+CUST_1430,Control_Legacy,91.08,0,Bronze,290.13,177.36,185.98,BNPL,Completed
+CUST_1431,Treatment_NewUI,105.66,0,Bronze,279.98,154.92,164.5,Credit Card,Completed
+CUST_1432,Treatment_NewUI,101.75,1,Silver,561.32,160.48,186.15,Credit Card,Completed
+CUST_1433,Control_Legacy,76.88,0,Platinum,1829.18,120.73,130.57,Credit Card,Completed
+CUST_1434,Control_Legacy,99.17,0,Bronze,305.34,129.63,150.42,UPI,Completed
+CUST_1435,Treatment_NewUI,85.14,1,Silver,577.82,150.07,145.29,UPI,Completed
+CUST_1436,Control_Legacy,93.8,0,Bronze,281.41,166.81,218.52,UPI,Returned
+CUST_1437,Treatment_NewUI,93.48,0,Bronze,407.92,61.45,59.74,BNPL,Completed
+CUST_1438,Treatment_NewUI,50.76,0,Silver,795.58,80.54,94.21,Debit Card,Completed
+CUST_1439,Control_Legacy,113.26,0,Silver,629.57,159.28,177.3,Credit Card,Completed
+CUST_1440,Control_Legacy,72.4,0,Bronze,326.62,111.69,158.88,Credit Card,Completed
+CUST_1441,Treatment_NewUI,127.87,0,Bronze,322.94,99.85,98.48,UPI,Completed
+CUST_1442,Control_Legacy,108.73,0,Bronze,129.26,82.38,130.63,UPI,Completed
+CUST_1443,Control_Legacy,90.41,0,Bronze,379.61,103.35,133.21,Debit Card,Returned
+CUST_1444,Treatment_NewUI,106.97,0,Platinum,1453.54,77.93,102.69,UPI,Completed
+CUST_1445,Treatment_NewUI,110.01,0,Platinum,1527.09,182.73,186.46,UPI,Completed
+CUST_1446,Treatment_NewUI,89.37,0,Bronze,263.08,119.33,146.39,BNPL,Completed
+CUST_1447,Treatment_NewUI,90.49,0,Silver,537.71,118.26,125.91,Debit Card,Cancelled
+CUST_1448,Control_Legacy,98.56,0,Platinum,1317.24,137.64,175.14,UPI,Completed
+CUST_1449,Control_Legacy,20.81,0,Bronze,401.73,148.87,152.8,Credit Card,Cancelled
+CUST_1450,Treatment_NewUI,93.74,0,Gold,881.82,148.38,165.18,UPI,Completed
+CUST_1451,Treatment_NewUI,84.68,0,Platinum,1940.67,152.21,162.38,BNPL,Completed
+CUST_1452,Control_Legacy,68.5,0,Bronze,354.47,101.07,104.76,Debit Card,Completed
+CUST_1453,Treatment_NewUI,104.17,0,Bronze,217.95,111.06,140.68,UPI,Completed
+CUST_1454,Control_Legacy,71.71,0,Platinum,1387.86,143.07,169.6,UPI,Cancelled
+CUST_1455,Control_Legacy,104.47,0,Silver,508.32,104.18,140.81,Credit Card,Completed
+CUST_1456,Control_Legacy,106.47,0,Bronze,144.45,119.85,111.65,Debit Card,Completed
+CUST_1457,Control_Legacy,96.79,1,Bronze,447.96,131.96,166.43,Credit Card,Completed
+CUST_1458,Control_Legacy,101.45,0,Silver,657.35,143.56,199.64,BNPL,Completed
+CUST_1459,Control_Legacy,96.86,0,Silver,638.65,66.67,78.39,UPI,Completed
+CUST_1460,Control_Legacy,103.11,0,Gold,979.77,141.44,188.37,Credit Card,Completed
+CUST_1461,Treatment_NewUI,112.68,0,Platinum,1074.5,112.99,127.54,Credit Card,Returned
+CUST_1462,Treatment_NewUI,102.81,1,Bronze,281.31,141.22,139.14,Debit Card,Completed
+CUST_1463,Treatment_NewUI,120.42,0,Silver,672.6,143.31,157.22,Credit Card,Completed
+CUST_1464,Treatment_NewUI,90.2,0,Silver,464.37,168.24,202.46,Credit Card,Completed
+CUST_1465,Control_Legacy,69.11,1,Silver,301.51,160.6,166.53,Debit Card,Completed
+CUST_1466,Control_Legacy,68.07,0,Bronze,301.83,160.4,169.89,Debit Card,Completed
+CUST_1467,Treatment_NewUI,86.65,0,Platinum,1384.56,163.31,190.71,Credit Card,Completed
+CUST_1468,Control_Legacy,43.84,1,Gold,974.4,128.74,147.29,UPI,Completed
+CUST_1469,Treatment_NewUI,99.43,0,Silver,660.14,120.97,148.23,BNPL,Returned
+CUST_1470,Control_Legacy,100.0,1,Silver,650.14,146.18,168.25,UPI,Cancelled
+CUST_1471,Treatment_NewUI,117.17,1,Bronze,340.7,141.96,167.66,UPI,Completed
+CUST_1472,Control_Legacy,50.13,0,Silver,711.51,110.73,122.74,Credit Card,Completed
+CUST_1473,Treatment_NewUI,75.51,0,Silver,412.91,132.14,154.12,Credit Card,Completed
+CUST_1474,Treatment_NewUI,114.52,0,Silver,635.5,118.95,123.54,Credit Card,Completed
+CUST_1475,Treatment_NewUI,89.45,0,Platinum,1576.63,94.38,132.21,UPI,Completed
+CUST_1476,Control_Legacy,99.48,0,Silver,443.65,158.71,167.7,BNPL,Completed
+CUST_1477,Treatment_NewUI,63.84,0,Bronze,199.77,121.66,157.09,UPI,Completed
+CUST_1478,Treatment_NewUI,127.54,1,Gold,815.73,181.46,196.46,BNPL,Cancelled
+CUST_1479,Treatment_NewUI,62.13,0,Bronze,267.08,71.24,92.77,UPI,Completed
+CUST_1480,Treatment_NewUI,20.22,0,Bronze,380.27,103.3,114.37,Debit Card,Completed
+CUST_1481,Treatment_NewUI,98.7,0,Bronze,270.84,120.98,124.24,Debit Card,Cancelled
+CUST_1482,Control_Legacy,90.11,0,Silver,485.8,154.12,146.45,Credit Card,Completed
+CUST_1483,Treatment_NewUI,82.15,0,Gold,839.91,131.98,134.65,Credit Card,Completed
+CUST_1484,Treatment_NewUI,105.87,0,Silver,703.05,129.31,142.96,UPI,Completed
+CUST_1485,Treatment_NewUI,106.58,0,Gold,952.35,86.18,107.86,Debit Card,Cancelled
+CUST_1486,Control_Legacy,94.13,0,Silver,560.28,85.29,118.95,Debit Card,Completed
+CUST_1487,Control_Legacy,74.3,0,Bronze,311.2,129.68,141.49,Debit Card,Returned
+CUST_1488,Treatment_NewUI,77.18,0,Gold,1182.57,79.08,84.35,Credit Card,Completed
+CUST_1489,Treatment_NewUI,84.17,1,Bronze,260.07,104.04,100.9,Debit Card,Completed
+CUST_1490,Control_Legacy,67.41,1,Bronze,425.24,135.03,160.73,Debit Card,Completed
+CUST_1491,Treatment_NewUI,121.67,0,Silver,603.15,90.53,129.78,Debit Card,Completed
+CUST_1492,Control_Legacy,78.29,0,Bronze,307.17,168.16,205.66,UPI,Completed
+CUST_1493,Control_Legacy,88.91,1,Bronze,520.07,156.72,185.87,Debit Card,Completed
+CUST_1494,Control_Legacy,103.65,0,Silver,463.88,72.86,100.94,UPI,Completed
+CUST_1495,Control_Legacy,66.42,1,Silver,541.09,92.03,135.99,BNPL,Completed
+CUST_1496,Treatment_NewUI,61.23,0,Silver,444.43,51.43,74.91,BNPL,Returned
+CUST_1497,Control_Legacy,67.48,0,Platinum,1658.12,96.52,124.71,BNPL,Completed
+CUST_1498,Treatment_NewUI,100.63,0,Silver,765.81,142.99,156.68,Credit Card,Completed
+CUST_1499,Treatment_NewUI,98.94,0,Gold,1250.59,107.58,105.65,Credit Card,Completed
+CUST_1500,Treatment_NewUI,103.77,1,Bronze,417.92,133.82,142.07,Credit Card,Completed
+CUST_1501,Treatment_NewUI,91.67,0,Silver,558.26,74.33,92.69,Credit Card,Completed
+CUST_1502,Control_Legacy,31.85,0,Gold,884.26,143.94,163.35,BNPL,Completed
+CUST_1503,Treatment_NewUI,90.91,0,Silver,396.17,103.35,150.74,UPI,Completed
+CUST_1504,Treatment_NewUI,117.85,0,Gold,1316.46,120.37,140.08,Credit Card,Completed
+CUST_1505,Control_Legacy,112.69,0,Bronze,357.52,117.21,153.4,Credit Card,Completed
+CUST_1506,Treatment_NewUI,96.37,0,Bronze,280.64,81.85,93.83,Credit Card,Cancelled
+CUST_1507,Treatment_NewUI,99.03,1,Silver,726.09,85.41,99.23,UPI,Completed
+CUST_1508,Treatment_NewUI,109.29,1,Bronze,242.18,149.03,147.6,UPI,Completed
+CUST_1509,Treatment_NewUI,123.7,0,Gold,1023.19,131.97,139.33,BNPL,Completed
+CUST_1510,Treatment_NewUI,94.21,0,Bronze,306.19,151.5,177.91,BNPL,Completed
+CUST_1511,Control_Legacy,98.73,0,Platinum,1579.67,129.74,148.35,Credit Card,Completed
+CUST_1512,Treatment_NewUI,80.71,0,Platinum,1404.11,124.29,156.93,Credit Card,Completed
+CUST_1513,Treatment_NewUI,64.29,1,Bronze,203.93,68.22,89.44,Credit Card,Completed
+CUST_1514,Control_Legacy,75.53,0,Bronze,326.05,111.89,125.1,Debit Card,Completed
+CUST_1515,Control_Legacy,117.45,0,Gold,1138.8,119.18,169.9,BNPL,Completed
+CUST_1516,Control_Legacy,99.19,0,Platinum,1412.7,178.59,195.68,Debit Card,Completed
+CUST_1517,Treatment_NewUI,66.3,0,Silver,665.26,140.61,176.55,UPI,Completed
+CUST_1518,Treatment_NewUI,110.63,0,Bronze,236.36,166.08,178.56,Debit Card,Completed
+CUST_1519,Control_Legacy,61.92,0,Silver,577.11,137.93,167.07,Credit Card,Completed
+CUST_1520,Treatment_NewUI,103.42,0,Silver,511.3,98.66,131.08,Credit Card,Completed
+CUST_1521,Control_Legacy,65.65,0,Bronze,379.76,123.51,145.14,Debit Card,Completed
+CUST_1522,Treatment_NewUI,65.06,0,Gold,955.67,127.09,110.27,UPI,Completed
+CUST_1523,Treatment_NewUI,134.45,0,Bronze,375.21,91.83,110.6,Credit Card,Completed
+CUST_1524,Treatment_NewUI,86.15,0,Bronze,407.02,108.47,145.43,UPI,Completed
+CUST_1525,Control_Legacy,98.77,1,Bronze,375.33,113.83,140.24,UPI,Completed
+CUST_1526,Control_Legacy,86.4,0,Bronze,341.85,168.17,193.36,Debit Card,Completed
+CUST_1527,Control_Legacy,63.45,0,Bronze,240.14,57.58,50.24,UPI,Completed
+CUST_1528,Control_Legacy,80.47,0,Silver,579.69,156.17,163.87,Debit Card,Completed
+CUST_1529,Treatment_NewUI,69.84,0,Bronze,277.35,91.9,116.57,UPI,Completed
+CUST_1530,Treatment_NewUI,153.31,1,Bronze,292.47,78.84,103.49,UPI,Completed
+CUST_1531,Treatment_NewUI,113.42,0,Bronze,290.04,155.4,192.12,BNPL,Completed
+CUST_1532,Treatment_NewUI,94.75,0,Platinum,1175.02,141.96,158.28,Credit Card,Completed
+CUST_1533,Treatment_NewUI,107.6,0,Silver,364.69,157.64,182.22,Debit Card,Completed
+CUST_1534,Treatment_NewUI,111.73,0,Silver,506.5,144.02,162.77,Credit Card,Completed
+CUST_1535,Treatment_NewUI,111.8,0,Silver,601.27,181.8,185.49,Credit Card,Completed
+CUST_1536,Treatment_NewUI,110.69,1,Platinum,1082.96,136.76,121.42,UPI,Completed
+CUST_1537,Control_Legacy,98.52,0,Bronze,321.25,115.31,140.27,BNPL,Completed
+CUST_1538,Control_Legacy,87.74,0,Silver,789.03,130.29,151.4,Debit Card,Completed
+CUST_1539,Control_Legacy,119.58,0,Gold,1134.15,157.3,166.53,Credit Card,Completed
+CUST_1540,Treatment_NewUI,98.24,0,Silver,760.79,96.62,90.83,Credit Card,Completed
+CUST_1541,Treatment_NewUI,95.45,1,Bronze,351.29,100.44,128.39,Debit Card,Completed
+CUST_1542,Control_Legacy,89.31,0,Silver,708.43,110.73,125.24,Credit Card,Completed
+CUST_1543,Treatment_NewUI,100.18,0,Bronze,262.08,56.86,83.72,Credit Card,Completed
+CUST_1544,Treatment_NewUI,54.98,1,Silver,509.12,124.14,170.6,UPI,Completed
+CUST_1545,Control_Legacy,67.27,0,Gold,456.95,63.42,49.79,Credit Card,Completed
+CUST_1546,Control_Legacy,83.23,0,Bronze,414.89,121.59,129.6,Debit Card,Returned
+CUST_1547,Treatment_NewUI,53.94,0,Gold,1227.26,145.96,161.32,UPI,Completed
+CUST_1548,Treatment_NewUI,94.71,0,Bronze,275.75,105.69,146.02,Credit Card,Completed
+CUST_1549,Treatment_NewUI,99.85,1,Gold,904.29,170.31,164.27,UPI,Completed
+CUST_1550,Treatment_NewUI,63.33,0,Silver,497.08,76.18,123.72,UPI,Completed
+CUST_1551,Treatment_NewUI,79.1,1,Bronze,350.61,155.74,176.28,UPI,Completed
+CUST_1552,Treatment_NewUI,125.6,0,Bronze,409.99,140.25,157.31,Debit Card,Completed
+CUST_1553,Treatment_NewUI,107.86,1,Platinum,984.31,68.52,84.05,Credit Card,Completed
+CUST_1554,Treatment_NewUI,106.41,0,Bronze,352.76,201.32,213.28,UPI,Completed
+CUST_1555,Control_Legacy,110.58,0,Bronze,297.87,118.09,152.31,UPI,Completed
+CUST_1556,Control_Legacy,67.66,0,Bronze,329.07,93.68,96.15,Credit Card,Completed
+CUST_1557,Control_Legacy,57.83,0,Silver,630.49,77.79,101.47,Credit Card,Completed
+CUST_1558,Treatment_NewUI,118.39,0,Silver,559.3,113.4,126.14,Credit Card,Completed
+CUST_1559,Treatment_NewUI,92.34,1,Bronze,311.71,116.18,123.25,Credit Card,Completed
+CUST_1560,Treatment_NewUI,73.74,1,Bronze,302.89,123.08,180.37,Debit Card,Completed
+CUST_1561,Control_Legacy,131.47,0,Bronze,397.63,111.07,135.85,Credit Card,Completed
+CUST_1562,Control_Legacy,50.13,0,Bronze,353.5,139.0,166.7,Credit Card,Returned
+CUST_1563,Control_Legacy,89.56,0,Silver,604.26,108.37,143.94,UPI,Completed
+CUST_1564,Control_Legacy,81.32,0,Gold,721.23,61.95,59.13,Credit Card,Completed
+CUST_1565,Treatment_NewUI,85.44,0,Bronze,289.71,115.52,160.3,UPI,Completed
+CUST_1566,Control_Legacy,36.84,1,Bronze,391.89,48.98,29.84,UPI,Completed
+CUST_1567,Control_Legacy,119.24,0,Bronze,323.02,130.61,137.58,Credit Card,Completed
+CUST_1568,Treatment_NewUI,59.31,1,Platinum,1584.88,90.62,102.24,UPI,Completed
+CUST_1569,Control_Legacy,79.63,0,Platinum,1861.63,124.9,152.13,UPI,Completed
+CUST_1570,Treatment_NewUI,83.68,0,Gold,1136.95,159.42,181.2,Debit Card,Returned
+CUST_1571,Treatment_NewUI,108.62,0,Bronze,327.45,91.54,107.54,Credit Card,Completed
+CUST_1572,Control_Legacy,50.34,0,Bronze,279.12,151.84,170.16,Debit Card,Completed
+CUST_1573,Treatment_NewUI,105.52,0,Bronze,115.72,107.0,110.83,BNPL,Completed
+CUST_1574,Treatment_NewUI,98.85,0,Bronze,306.53,172.6,168.64,UPI,Completed
+CUST_1575,Treatment_NewUI,77.98,0,Silver,544.14,109.05,138.44,Credit Card,Cancelled
+CUST_1576,Control_Legacy,94.87,0,Gold,1020.27,94.79,123.69,UPI,Completed
+CUST_1577,Treatment_NewUI,94.67,1,Gold,922.3,140.62,182.88,Debit Card,Completed
+CUST_1578,Control_Legacy,125.2,0,Gold,892.33,106.93,113.58,Debit Card,Completed
+CUST_1579,Control_Legacy,81.3,0,Bronze,177.65,94.76,123.65,UPI,Completed
+CUST_1580,Control_Legacy,64.46,0,Silver,476.6,105.66,119.91,Debit Card,Completed
+CUST_1581,Treatment_NewUI,105.77,0,Bronze,358.13,118.66,155.02,UPI,Completed
+CUST_1582,Control_Legacy,78.61,1,Bronze,457.27,160.27,194.09,UPI,Completed
+CUST_1583,Control_Legacy,85.48,0,Gold,932.45,61.98,83.65,UPI,Completed
+CUST_1584,Treatment_NewUI,63.57,0,Bronze,346.22,120.69,134.1,Credit Card,Completed
+CUST_1585,Control_Legacy,98.8,0,Silver,684.77,138.75,171.66,UPI,Completed
+CUST_1586,Control_Legacy,75.16,0,Bronze,255.13,125.8,154.01,BNPL,Returned
+CUST_1587,Control_Legacy,91.35,1,Silver,620.35,159.3,167.53,Credit Card,Completed
+CUST_1588,Control_Legacy,131.69,1,Gold,816.71,117.77,116.35,Debit Card,Completed
+CUST_1589,Control_Legacy,80.07,0,Bronze,389.19,114.46,128.64,Credit Card,Returned
+CUST_1590,Control_Legacy,101.87,0,Gold,977.25,137.77,179.0,UPI,Completed
+CUST_1591,Treatment_NewUI,89.76,1,Bronze,343.88,122.98,158.68,UPI,Completed
+CUST_1592,Control_Legacy,71.21,0,Silver,493.91,108.29,110.1,Credit Card,Completed
+CUST_1593,Control_Legacy,114.57,0,Gold,1077.27,135.48,136.47,BNPL,Completed
+CUST_1594,Treatment_NewUI,48.47,0,Silver,809.32,100.42,138.04,Credit Card,Completed
+CUST_1595,Control_Legacy,107.67,0,Platinum,1168.02,101.66,103.13,UPI,Completed
+CUST_1596,Treatment_NewUI,45.93,0,Bronze,292.82,104.16,130.3,Debit Card,Returned
+CUST_1597,Control_Legacy,105.14,0,Silver,605.48,160.59,169.85,Credit Card,Completed
+CUST_1598,Control_Legacy,85.81,0,Silver,666.5,23.37,66.13,Credit Card,Completed
+CUST_1599,Control_Legacy,64.51,1,Platinum,1280.11,131.87,138.81,Credit Card,Returned
+CUST_1600,Control_Legacy,76.55,0,Bronze,93.36,121.03,156.68,UPI,Completed
+CUST_1601,Control_Legacy,100.6,0,Gold,1194.65,69.57,90.85,Debit Card,Returned
+CUST_1602,Control_Legacy,128.98,0,Silver,663.66,129.29,151.57,Credit Card,Completed
+CUST_1603,Control_Legacy,51.09,0,Bronze,180.56,134.27,123.22,Credit Card,Completed
+CUST_1604,Control_Legacy,65.73,0,Silver,513.17,137.69,123.15,Credit Card,Completed
+CUST_1605,Control_Legacy,56.23,0,Bronze,445.45,40.45,55.64,UPI,Completed
+CUST_1606,Control_Legacy,81.34,0,Silver,739.26,160.99,183.2,UPI,Completed
+CUST_1607,Control_Legacy,105.78,0,Gold,1118.96,97.87,99.49,Credit Card,Completed
+CUST_1608,Treatment_NewUI,58.65,0,Silver,560.63,140.6,142.77,Debit Card,Completed
+CUST_1609,Treatment_NewUI,93.9,1,Silver,589.13,142.23,169.15,Credit Card,Cancelled
+CUST_1610,Control_Legacy,105.01,0,Silver,565.6,93.7,120.64,BNPL,Completed
+CUST_1611,Treatment_NewUI,83.89,1,Bronze,410.26,139.81,156.25,BNPL,Completed
+CUST_1612,Treatment_NewUI,30.4,0,Bronze,249.93,108.44,138.64,UPI,Completed
+CUST_1613,Control_Legacy,89.88,0,Silver,491.36,57.86,58.75,BNPL,Completed
+CUST_1614,Treatment_NewUI,124.48,0,Bronze,400.82,155.03,168.19,UPI,Completed
+CUST_1615,Treatment_NewUI,67.96,0,Bronze,316.45,96.75,139.97,UPI,Completed
+CUST_1616,Control_Legacy,46.37,0,Silver,731.63,94.37,113.89,Debit Card,Completed
+CUST_1617,Control_Legacy,92.53,1,Bronze,266.28,107.91,128.3,Credit Card,Completed
+CUST_1618,Treatment_NewUI,102.72,1,Bronze,315.62,128.17,181.26,Credit Card,Completed
+CUST_1619,Treatment_NewUI,82.26,0,Silver,478.53,118.28,115.79,Credit Card,Completed
+CUST_1620,Control_Legacy,70.63,0,Bronze,320.59,136.44,166.89,UPI,Completed
+CUST_1621,Control_Legacy,86.25,0,Platinum,1050.36,79.82,123.28,Credit Card,Returned
+CUST_1622,Control_Legacy,61.58,0,Gold,862.23,97.73,111.36,Credit Card,Returned
+CUST_1623,Control_Legacy,61.61,1,Gold,691.47,116.52,147.91,Debit Card,Cancelled
+CUST_1624,Treatment_NewUI,110.84,0,Bronze,375.51,176.94,180.71,Credit Card,Returned
+CUST_1625,Control_Legacy,60.23,0,Gold,1078.99,116.59,124.78,Debit Card,Completed
+CUST_1626,Control_Legacy,47.53,0,Gold,638.55,152.56,176.83,BNPL,Completed
+CUST_1627,Treatment_NewUI,77.6,0,Gold,1190.1,121.16,151.64,UPI,Completed
+CUST_1628,Control_Legacy,75.28,0,Bronze,519.79,105.49,140.8,UPI,Completed
+CUST_1629,Control_Legacy,95.67,0,Silver,585.06,112.6,154.64,Debit Card,Returned
+CUST_1630,Treatment_NewUI,79.56,0,Gold,834.6,114.95,132.44,Debit Card,Returned
+CUST_1631,Treatment_NewUI,129.05,0,Silver,890.68,138.11,174.51,Credit Card,Completed
+CUST_1632,Treatment_NewUI,96.29,0,Silver,434.91,161.24,174.6,BNPL,Returned
+CUST_1633,Treatment_NewUI,74.4,1,Silver,582.21,130.79,162.82,Credit Card,Completed
+CUST_1634,Control_Legacy,94.7,0,Silver,599.76,155.61,177.22,Credit Card,Completed
+CUST_1635,Control_Legacy,116.34,1,Bronze,427.61,91.06,116.24,UPI,Completed
+CUST_1636,Treatment_NewUI,110.14,0,Silver,619.57,107.56,132.41,Credit Card,Completed
+CUST_1637,Control_Legacy,52.43,0,Bronze,280.11,98.27,92.7,Debit Card,Cancelled
+CUST_1638,Control_Legacy,77.05,0,Silver,475.37,129.43,131.07,Credit Card,Completed
+CUST_1639,Control_Legacy,91.0,0,Bronze,292.65,109.23,129.27,Credit Card,Completed
+CUST_1640,Control_Legacy,98.85,0,Silver,469.24,141.89,135.08,Credit Card,Completed
+CUST_1641,Control_Legacy,81.47,0,Bronze,323.83,92.07,123.04,Credit Card,Completed
+CUST_1642,Control_Legacy,78.45,0,Silver,517.94,121.29,152.86,UPI,Completed
+CUST_1643,Control_Legacy,124.99,0,Gold,681.07,140.61,164.01,UPI,Returned
+CUST_1644,Control_Legacy,100.15,0,Bronze,420.41,58.04,59.72,Debit Card,Completed
+CUST_1645,Treatment_NewUI,104.53,0,Bronze,280.19,183.65,222.85,BNPL,Cancelled
+CUST_1646,Treatment_NewUI,80.52,0,Bronze,218.55,111.51,160.56,Credit Card,Completed
+CUST_1647,Treatment_NewUI,67.25,0,Gold,919.71,59.25,79.95,Credit Card,Completed
+CUST_1648,Treatment_NewUI,104.97,0,Silver,587.52,124.74,150.9,Credit Card,Completed
+CUST_1649,Control_Legacy,102.64,0,Silver,387.89,121.0,142.53,UPI,Completed
+CUST_1650,Control_Legacy,85.38,0,Bronze,346.53,117.54,144.0,Debit Card,Completed
+CUST_1651,Treatment_NewUI,110.58,1,Silver,464.81,149.74,166.44,UPI,Completed
+CUST_1652,Treatment_NewUI,111.24,0,Gold,1257.99,142.42,160.4,UPI,Completed
+CUST_1653,Treatment_NewUI,115.0,1,Gold,1044.31,128.94,161.02,Debit Card,Completed
+CUST_1654,Control_Legacy,52.11,0,Silver,536.01,133.5,187.19,UPI,Returned
+CUST_1655,Control_Legacy,77.65,0,Bronze,260.39,116.87,114.37,BNPL,Completed
+CUST_1656,Control_Legacy,96.51,1,Bronze,311.6,173.26,190.21,Credit Card,Returned
+CUST_1657,Control_Legacy,86.6,0,Bronze,369.02,75.62,76.42,Debit Card,Completed
+CUST_1658,Treatment_NewUI,111.32,1,Bronze,317.96,124.19,166.57,UPI,Completed
+CUST_1659,Treatment_NewUI,104.51,0,Bronze,302.63,121.95,131.63,UPI,Completed
+CUST_1660,Control_Legacy,38.13,1,Bronze,324.67,144.4,141.25,Credit Card,Completed
+CUST_1661,Treatment_NewUI,121.08,0,Bronze,271.69,94.68,122.76,Debit Card,Completed
+CUST_1662,Treatment_NewUI,82.47,0,Platinum,1334.2,67.69,112.35,Debit Card,Completed
+CUST_1663,Control_Legacy,66.52,0,Silver,350.56,124.7,153.16,Debit Card,Completed
+CUST_1664,Control_Legacy,108.82,0,Gold,1125.27,128.44,150.01,Credit Card,Completed
+CUST_1665,Control_Legacy,99.07,0,Gold,1003.78,164.69,189.33,BNPL,Completed
+CUST_1666,Control_Legacy,112.16,0,Bronze,258.12,81.89,121.61,UPI,Completed
+CUST_1667,Control_Legacy,91.25,1,Gold,1291.77,154.64,160.03,Debit Card,Completed
+CUST_1668,Control_Legacy,77.38,0,Bronze,326.96,191.02,207.84,UPI,Completed
+CUST_1669,Control_Legacy,88.65,0,Silver,466.02,108.67,120.38,BNPL,Completed
+CUST_1670,Control_Legacy,62.85,0,Bronze,388.54,81.27,82.25,Credit Card,Completed
+CUST_1671,Treatment_NewUI,61.06,0,Platinum,1519.51,107.79,121.37,Credit Card,Completed
+CUST_1672,Control_Legacy,71.66,1,Bronze,351.57,120.42,155.54,Debit Card,Completed
+CUST_1673,Treatment_NewUI,131.78,0,Bronze,285.94,136.91,163.91,UPI,Completed
+CUST_1674,Control_Legacy,73.71,0,Platinum,1532.62,102.26,130.42,Credit Card,Completed
+CUST_1675,Treatment_NewUI,52.37,0,Bronze,299.06,166.66,187.35,BNPL,Returned
+CUST_1676,Control_Legacy,82.07,0,Silver,641.15,86.56,112.91,Debit Card,Completed
+CUST_1677,Control_Legacy,73.44,0,Gold,607.11,67.82,74.31,Debit Card,Completed
+CUST_1678,Treatment_NewUI,121.58,0,Gold,871.9,153.2,167.06,Credit Card,Completed
+CUST_1679,Treatment_NewUI,129.69,0,Platinum,1850.54,51.76,73.14,Credit Card,Completed
+CUST_1680,Treatment_NewUI,84.07,0,Platinum,1228.23,113.88,136.54,UPI,Completed
+CUST_1681,Control_Legacy,91.23,0,Bronze,271.69,213.53,236.83,BNPL,Completed
+CUST_1682,Control_Legacy,93.06,1,Gold,869.37,119.64,136.06,Debit Card,Completed
+CUST_1683,Treatment_NewUI,93.01,0,Silver,446.37,86.38,99.22,BNPL,Returned
+CUST_1684,Treatment_NewUI,88.56,0,Silver,337.09,118.28,184.14,UPI,Completed
+CUST_1685,Treatment_NewUI,71.56,0,Bronze,301.55,118.48,150.58,Debit Card,Completed
+CUST_1686,Treatment_NewUI,48.97,0,Silver,594.94,124.82,149.52,UPI,Completed
+CUST_1687,Control_Legacy,65.05,0,Platinum,1406.87,139.87,154.87,Debit Card,Completed
+CUST_1688,Treatment_NewUI,92.16,0,Platinum,1383.78,88.83,100.56,Debit Card,Completed
+CUST_1689,Control_Legacy,53.61,0,Silver,584.73,170.63,187.16,Credit Card,Completed
+CUST_1690,Control_Legacy,90.06,0,Bronze,401.83,127.35,150.25,UPI,Completed
+CUST_1691,Control_Legacy,87.03,1,Bronze,304.76,141.8,132.1,Credit Card,Completed
+CUST_1692,Treatment_NewUI,80.81,0,Gold,846.67,101.16,96.11,UPI,Completed
+CUST_1693,Control_Legacy,79.52,0,Gold,899.4,158.59,167.54,UPI,Completed
+CUST_1694,Control_Legacy,56.91,1,Silver,643.73,112.29,133.9,Credit Card,Completed
+CUST_1695,Treatment_NewUI,114.53,0,Bronze,432.96,128.33,143.24,Credit Card,Completed
+CUST_1696,Control_Legacy,103.35,0,Silver,510.9,92.01,132.68,Debit Card,Completed
+CUST_1697,Treatment_NewUI,66.07,0,Silver,590.88,90.09,86.36,Debit Card,Completed
+CUST_1698,Control_Legacy,60.8,0,Platinum,1504.59,140.65,147.88,Credit Card,Completed
+CUST_1699,Control_Legacy,65.31,0,Silver,470.82,106.69,147.99,Debit Card,Completed
+CUST_1700,Treatment_NewUI,107.71,0,Bronze,321.63,94.39,114.85,Credit Card,Completed
+CUST_1701,Control_Legacy,92.99,0,Silver,418.78,100.7,132.48,Credit Card,Completed
+CUST_1702,Control_Legacy,108.54,0,Bronze,178.48,140.97,190.24,Credit Card,Completed
+CUST_1703,Control_Legacy,111.23,1,Platinum,1511.69,101.13,109.22,Credit Card,Completed
+CUST_1704,Control_Legacy,51.82,0,Bronze,289.29,116.47,133.48,UPI,Completed
+CUST_1705,Treatment_NewUI,106.8,0,Silver,602.25,120.45,134.86,BNPL,Completed
+CUST_1706,Control_Legacy,110.24,0,Bronze,318.57,62.48,51.66,Debit Card,Returned
+CUST_1707,Treatment_NewUI,86.02,0,Silver,472.6,75.87,89.71,Debit Card,Completed
+CUST_1708,Control_Legacy,84.98,1,Silver,575.02,130.09,161.8,Credit Card,Completed
+CUST_1709,Treatment_NewUI,89.93,0,Gold,728.04,97.89,124.5,Debit Card,Completed
+CUST_1710,Treatment_NewUI,90.98,0,Bronze,431.28,151.7,179.49,Credit Card,Completed
+CUST_1711,Treatment_NewUI,114.44,0,Bronze,211.52,149.0,161.87,UPI,Completed
+CUST_1712,Control_Legacy,123.99,0,Bronze,304.34,141.58,150.23,BNPL,Cancelled
+CUST_1713,Control_Legacy,115.89,0,Silver,465.35,174.59,212.13,Credit Card,Returned
+CUST_1714,Control_Legacy,74.43,0,Bronze,365.63,117.51,128.55,UPI,Completed
+CUST_1715,Treatment_NewUI,100.66,0,Silver,543.54,139.47,162.38,Credit Card,Completed
+CUST_1716,Treatment_NewUI,75.0,0,Gold,856.64,102.47,123.42,Debit Card,Completed
+CUST_1717,Treatment_NewUI,77.28,0,Gold,1103.58,193.57,234.0,Credit Card,Completed
+CUST_1718,Control_Legacy,84.02,0,Silver,583.24,179.51,212.58,Debit Card,Completed
+CUST_1719,Treatment_NewUI,76.66,0,Silver,636.83,120.36,119.43,Credit Card,Completed
+CUST_1720,Treatment_NewUI,79.99,0,Bronze,241.49,131.6,132.28,Debit Card,Completed
+CUST_1721,Control_Legacy,90.77,0,Silver,425.47,160.78,187.96,Debit Card,Completed
+CUST_1722,Control_Legacy,96.49,0,Gold,969.3,115.59,133.12,Credit Card,Completed
+CUST_1723,Treatment_NewUI,105.76,0,Bronze,294.49,100.3,111.97,UPI,Cancelled
+CUST_1724,Treatment_NewUI,106.02,0,Silver,648.91,146.22,179.95,BNPL,Completed
+CUST_1725,Treatment_NewUI,63.88,0,Gold,935.62,122.35,143.67,Debit Card,Cancelled
+CUST_1726,Control_Legacy,68.71,0,Gold,986.91,125.49,144.78,Credit Card,Completed
+CUST_1727,Treatment_NewUI,95.13,0,Bronze,190.13,94.97,125.17,Credit Card,Completed
+CUST_1728,Control_Legacy,109.11,0,Silver,787.73,68.47,81.34,BNPL,Completed
+CUST_1729,Control_Legacy,137.51,0,Bronze,306.86,127.08,169.11,Debit Card,Completed
+CUST_1730,Control_Legacy,92.18,0,Bronze,375.81,147.15,153.83,Debit Card,Completed
+CUST_1731,Treatment_NewUI,111.88,0,Platinum,1210.98,113.23,141.58,Credit Card,Returned
+CUST_1732,Treatment_NewUI,61.4,0,Gold,1005.44,163.09,203.1,Debit Card,Cancelled
+CUST_1733,Treatment_NewUI,111.18,0,Gold,715.49,98.88,96.72,Credit Card,Completed
+CUST_1734,Control_Legacy,129.34,0,Bronze,356.17,88.36,101.71,BNPL,Completed
+CUST_1735,Treatment_NewUI,75.42,1,Gold,885.92,117.98,153.62,BNPL,Completed
+CUST_1736,Control_Legacy,73.41,0,Silver,583.21,117.52,153.38,Credit Card,Completed
+CUST_1737,Treatment_NewUI,115.26,1,Bronze,375.84,143.1,159.03,Debit Card,Completed
+CUST_1738,Control_Legacy,86.06,1,Silver,444.42,96.75,104.23,Credit Card,Completed
+CUST_1739,Control_Legacy,43.27,0,Bronze,265.24,161.04,193.88,Debit Card,Completed
+CUST_1740,Control_Legacy,74.65,0,Gold,1032.32,179.01,215.26,BNPL,Completed
+CUST_1741,Control_Legacy,117.26,0,Silver,810.8,118.83,119.86,Debit Card,Completed
+CUST_1742,Treatment_NewUI,87.37,1,Bronze,308.95,157.49,157.93,Credit Card,Completed
+CUST_1743,Treatment_NewUI,87.35,1,Bronze,367.29,88.31,110.18,Credit Card,Completed
+CUST_1744,Control_Legacy,102.89,0,Bronze,311.44,152.26,180.2,UPI,Cancelled
+CUST_1745,Treatment_NewUI,102.53,0,Bronze,475.38,151.42,165.43,UPI,Completed
+CUST_1746,Control_Legacy,78.21,0,Silver,387.81,145.9,174.59,Debit Card,Returned
+CUST_1747,Treatment_NewUI,79.2,0,Gold,967.03,119.53,127.38,Credit Card,Completed
+CUST_1748,Treatment_NewUI,166.45,0,Bronze,189.96,31.37,18.15,Credit Card,Returned
+CUST_1749,Treatment_NewUI,124.69,0,Bronze,119.47,100.75,112.89,BNPL,Returned
+CUST_1750,Control_Legacy,96.1,0,Silver,612.72,101.22,120.67,Debit Card,Completed
+CUST_1751,Treatment_NewUI,107.61,0,Gold,975.11,90.65,105.01,Debit Card,Returned
+CUST_1752,Treatment_NewUI,91.13,0,Bronze,297.21,123.67,124.79,Debit Card,Completed
+CUST_1753,Control_Legacy,92.71,0,Bronze,311.5,107.43,98.7,UPI,Completed
+CUST_1754,Control_Legacy,80.44,0,Silver,920.81,95.26,106.05,Credit Card,Cancelled
+CUST_1755,Treatment_NewUI,73.34,0,Bronze,299.35,88.24,120.2,Credit Card,Completed
+CUST_1756,Treatment_NewUI,103.2,0,Bronze,360.81,98.53,135.88,Debit Card,Cancelled
+CUST_1757,Treatment_NewUI,86.52,0,Gold,833.11,153.64,189.96,UPI,Completed
+CUST_1758,Treatment_NewUI,104.49,0,Silver,612.48,100.17,106.43,UPI,Completed
+CUST_1759,Treatment_NewUI,109.07,0,Silver,553.79,104.55,105.75,BNPL,Returned
+CUST_1760,Control_Legacy,95.92,0,Gold,876.11,106.3,132.25,Debit Card,Completed
+CUST_1761,Control_Legacy,65.12,0,Silver,780.08,130.17,158.2,Credit Card,Completed
+CUST_1762,Control_Legacy,76.32,0,Bronze,414.17,133.69,158.19,BNPL,Cancelled
+CUST_1763,Treatment_NewUI,86.97,1,Bronze,330.94,28.66,16.95,Debit Card,Completed
+CUST_1764,Control_Legacy,106.97,0,Bronze,135.66,150.65,156.15,UPI,Completed
+CUST_1765,Treatment_NewUI,116.7,1,Bronze,291.12,163.09,181.15,UPI,Completed
+CUST_1766,Treatment_NewUI,76.82,1,Silver,877.33,88.49,114.3,Debit Card,Completed
+CUST_1767,Treatment_NewUI,63.37,0,Gold,908.48,90.83,120.84,Credit Card,Completed
+CUST_1768,Control_Legacy,138.89,0,Platinum,1695.8,106.49,127.16,UPI,Returned
+CUST_1769,Treatment_NewUI,104.81,1,Silver,738.61,97.32,120.78,UPI,Completed
+CUST_1770,Control_Legacy,55.19,0,Bronze,337.52,126.72,146.49,Debit Card,Completed
+CUST_1771,Treatment_NewUI,80.36,0,Bronze,252.65,61.6,90.39,Debit Card,Completed
+CUST_1772,Control_Legacy,107.97,0,Gold,511.64,86.46,109.66,Credit Card,Completed
+CUST_1773,Control_Legacy,131.45,0,Silver,655.26,166.18,185.66,Credit Card,Completed
+CUST_1774,Treatment_NewUI,140.04,0,Silver,490.38,92.15,106.63,Credit Card,Completed
+CUST_1775,Control_Legacy,94.07,0,Gold,981.71,157.3,177.02,Credit Card,Completed
+CUST_1776,Control_Legacy,27.51,0,Gold,725.03,130.66,156.43,BNPL,Completed
+CUST_1777,Treatment_NewUI,94.28,0,Gold,902.26,65.72,88.23,UPI,Completed
+CUST_1778,Treatment_NewUI,69.36,0,Bronze,322.7,139.06,163.27,UPI,Completed
+CUST_1779,Treatment_NewUI,96.3,1,Gold,998.35,116.47,155.11,Debit Card,Completed
+CUST_1780,Treatment_NewUI,72.26,0,Gold,749.33,106.34,128.81,Credit Card,Completed
+CUST_1781,Treatment_NewUI,84.2,0,Bronze,415.75,127.35,136.11,BNPL,Completed
+CUST_1782,Control_Legacy,104.39,0,Silver,514.34,134.24,165.99,Debit Card,Completed
+CUST_1783,Control_Legacy,80.34,0,Bronze,186.04,141.23,139.23,Credit Card,Completed
+CUST_1784,Control_Legacy,78.91,0,Platinum,1392.74,155.35,157.63,Debit Card,Returned
+CUST_1785,Treatment_NewUI,92.97,1,Bronze,322.75,132.24,155.78,BNPL,Completed
+CUST_1786,Treatment_NewUI,158.41,0,Silver,597.66,78.73,104.98,BNPL,Returned
+CUST_1787,Control_Legacy,61.04,0,Bronze,428.97,105.79,105.61,Credit Card,Completed
+CUST_1788,Control_Legacy,91.67,0,Gold,907.44,208.29,221.05,BNPL,Completed
+CUST_1789,Treatment_NewUI,137.29,0,Bronze,310.43,141.73,151.14,Credit Card,Completed
+CUST_1790,Control_Legacy,84.33,0,Bronze,231.75,191.08,202.28,Credit Card,Completed
+CUST_1791,Treatment_NewUI,124.18,0,Silver,670.26,161.86,194.52,UPI,Completed
+CUST_1792,Treatment_NewUI,61.88,0,Platinum,1466.08,127.25,156.35,BNPL,Completed
+CUST_1793,Treatment_NewUI,89.23,0,Bronze,286.4,129.04,147.26,Debit Card,Completed
+CUST_1794,Control_Legacy,67.9,0,Bronze,167.63,118.9,129.21,Debit Card,Completed
+CUST_1795,Treatment_NewUI,92.64,0,Gold,1209.99,67.87,66.12,UPI,Completed
+CUST_1796,Treatment_NewUI,93.15,1,Silver,444.96,120.54,160.34,UPI,Completed
+CUST_1797,Treatment_NewUI,95.62,0,Platinum,1272.18,156.32,183.7,BNPL,Completed
+CUST_1798,Treatment_NewUI,114.99,0,Bronze,348.67,102.01,109.91,Debit Card,Completed
+CUST_1799,Treatment_NewUI,39.15,1,Silver,448.38,132.36,161.65,BNPL,Returned
+CUST_1800,Treatment_NewUI,79.34,0,Bronze,200.52,145.55,162.99,BNPL,Completed
+CUST_1801,Control_Legacy,90.15,0,Bronze,150.08,92.71,106.9,Credit Card,Completed
+CUST_1802,Treatment_NewUI,48.22,0,Silver,659.31,106.46,131.49,UPI,Completed
+CUST_1803,Treatment_NewUI,109.38,0,Silver,520.03,89.46,96.84,Debit Card,Completed
+CUST_1804,Control_Legacy,71.76,0,Gold,1476.91,95.34,108.68,Debit Card,Completed
+CUST_1805,Treatment_NewUI,89.68,0,Bronze,240.45,81.37,101.69,UPI,Completed
+CUST_1806,Treatment_NewUI,116.18,0,Silver,478.64,92.99,103.99,Credit Card,Cancelled
+CUST_1807,Treatment_NewUI,125.43,1,Silver,517.81,162.58,191.12,Debit Card,Completed
+CUST_1808,Control_Legacy,99.83,0,Platinum,1480.78,92.54,139.07,BNPL,Cancelled
+CUST_1809,Control_Legacy,60.47,1,Bronze,282.38,123.79,130.98,Credit Card,Completed
+CUST_1810,Treatment_NewUI,108.87,0,Bronze,368.99,104.91,98.44,Debit Card,Completed
+CUST_1811,Treatment_NewUI,110.57,1,Bronze,241.71,155.37,143.84,BNPL,Completed
+CUST_1812,Control_Legacy,95.56,0,Silver,428.02,159.33,175.58,Debit Card,Completed
+CUST_1813,Treatment_NewUI,129.87,0,Bronze,176.14,145.92,154.47,Debit Card,Completed
+CUST_1814,Treatment_NewUI,96.25,1,Platinum,864.11,129.18,150.8,Debit Card,Completed
+CUST_1815,Treatment_NewUI,128.76,0,Bronze,278.55,113.07,133.56,Debit Card,Completed
+CUST_1816,Treatment_NewUI,128.58,1,Gold,895.82,84.24,78.7,UPI,Completed
+CUST_1817,Control_Legacy,100.85,0,Bronze,269.49,178.31,169.58,UPI,Completed
+CUST_1818,Control_Legacy,92.02,0,Silver,716.77,97.21,120.15,Debit Card,Cancelled
+CUST_1819,Control_Legacy,95.69,0,Platinum,1727.01,139.91,160.44,UPI,Completed
+CUST_1820,Treatment_NewUI,135.85,0,Bronze,293.22,151.79,163.9,Debit Card,Completed
+CUST_1821,Control_Legacy,109.07,0,Platinum,971.52,103.34,96.98,Credit Card,Completed
+CUST_1822,Control_Legacy,62.78,0,Silver,517.66,151.14,176.71,UPI,Returned
+CUST_1823,Control_Legacy,94.25,0,Platinum,1270.04,142.93,180.5,UPI,Completed
+CUST_1824,Treatment_NewUI,73.43,0,Silver,507.72,171.84,194.51,Debit Card,Completed
+CUST_1825,Treatment_NewUI,78.22,0,Bronze,264.18,105.92,111.71,Credit Card,Completed
+CUST_1826,Control_Legacy,77.35,0,Bronze,267.72,81.42,100.59,Credit Card,Completed
+CUST_1827,Control_Legacy,54.58,0,Bronze,289.08,104.84,102.84,Credit Card,Completed
+CUST_1828,Treatment_NewUI,71.96,0,Bronze,269.16,126.27,160.64,Credit Card,Completed
+CUST_1829,Control_Legacy,118.92,0,Bronze,336.67,121.75,141.47,UPI,Completed
+CUST_1830,Control_Legacy,71.03,0,Bronze,348.83,108.2,100.17,Credit Card,Completed
+CUST_1831,Control_Legacy,104.3,0,Silver,479.83,62.72,76.71,UPI,Completed
+CUST_1832,Control_Legacy,89.28,0,Gold,1178.79,134.11,159.56,Credit Card,Completed
+CUST_1833,Control_Legacy,97.67,0,Bronze,241.6,179.17,192.67,Credit Card,Completed
+CUST_1834,Control_Legacy,98.64,0,Bronze,190.58,133.93,148.29,Debit Card,Returned
+CUST_1835,Control_Legacy,64.64,0,Silver,621.89,138.27,138.41,Credit Card,Completed
+CUST_1836,Treatment_NewUI,114.98,0,Bronze,254.61,137.17,164.17,BNPL,Completed
+CUST_1837,Control_Legacy,58.38,0,Bronze,345.7,131.91,140.68,Credit Card,Returned
+CUST_1838,Treatment_NewUI,77.13,1,Bronze,127.71,147.95,134.1,Debit Card,Returned
+CUST_1839,Treatment_NewUI,108.46,0,Platinum,1768.11,131.86,144.79,UPI,Completed
+CUST_1840,Control_Legacy,63.31,1,Gold,1071.01,110.62,143.84,UPI,Completed
+CUST_1841,Treatment_NewUI,46.12,0,Bronze,199.96,96.12,108.82,Credit Card,Cancelled
+CUST_1842,Control_Legacy,93.19,1,Silver,417.33,112.53,157.1,Debit Card,Completed
+CUST_1843,Treatment_NewUI,55.86,0,Silver,763.95,129.42,154.36,UPI,Completed
+CUST_1844,Control_Legacy,100.44,0,Silver,498.89,110.52,134.1,BNPL,Completed
+CUST_1845,Control_Legacy,78.85,0,Silver,488.24,129.43,146.0,BNPL,Completed
+CUST_1846,Control_Legacy,92.87,0,Silver,330.73,133.17,150.65,Credit Card,Completed
+CUST_1847,Treatment_NewUI,101.95,0,Bronze,291.94,145.0,159.54,BNPL,Returned
+CUST_1848,Treatment_NewUI,112.74,0,Bronze,301.78,158.48,172.45,Credit Card,Cancelled
+CUST_1849,Treatment_NewUI,109.21,0,Silver,658.7,122.34,148.8,Credit Card,Completed
+CUST_1850,Control_Legacy,63.13,1,Gold,698.17,80.77,85.23,UPI,Completed
+CUST_1851,Treatment_NewUI,88.22,0,Silver,412.77,109.65,112.01,Credit Card,Completed
+CUST_1852,Control_Legacy,92.84,0,Gold,1031.17,121.32,122.97,Credit Card,Cancelled
+CUST_1853,Treatment_NewUI,129.27,0,Platinum,1671.68,64.93,114.11,Credit Card,Completed
+CUST_1854,Control_Legacy,99.19,0,Bronze,194.31,161.66,188.12,Debit Card,Completed
+CUST_1855,Control_Legacy,114.74,1,Silver,698.97,124.27,147.34,UPI,Returned
+CUST_1856,Control_Legacy,94.01,0,Silver,584.13,131.44,134.08,UPI,Completed
+CUST_1857,Control_Legacy,109.5,0,Platinum,1692.95,160.97,188.82,Credit Card,Completed
+CUST_1858,Treatment_NewUI,100.31,0,Platinum,1402.44,101.1,117.85,Debit Card,Returned
+CUST_1859,Control_Legacy,108.49,0,Silver,302.55,137.22,158.93,BNPL,Cancelled
+CUST_1860,Treatment_NewUI,85.59,0,Bronze,307.84,116.7,120.55,UPI,Completed
+CUST_1861,Control_Legacy,119.9,0,Gold,1140.83,114.48,135.38,Credit Card,Completed
+CUST_1862,Treatment_NewUI,106.45,0,Bronze,248.5,96.83,108.98,BNPL,Completed
+CUST_1863,Control_Legacy,54.72,0,Gold,880.17,169.97,176.98,UPI,Completed
+CUST_1864,Control_Legacy,93.59,0,Platinum,1375.97,108.73,138.25,Credit Card,Returned
+CUST_1865,Treatment_NewUI,42.75,0,Bronze,88.04,140.98,136.42,Credit Card,Cancelled
+CUST_1866,Control_Legacy,99.26,0,Silver,763.85,63.75,90.72,Credit Card,Completed
+CUST_1867,Control_Legacy,104.98,1,Silver,480.85,155.4,184.17,UPI,Completed
+CUST_1868,Treatment_NewUI,142.08,0,Silver,635.63,151.57,156.87,Credit Card,Completed
+CUST_1869,Treatment_NewUI,81.81,0,Bronze,313.06,122.92,129.12,Debit Card,Completed
+CUST_1870,Control_Legacy,128.68,0,Gold,1176.37,113.19,128.35,Credit Card,Completed
+CUST_1871,Control_Legacy,85.58,0,Platinum,1521.51,132.0,154.73,BNPL,Completed
+CUST_1872,Treatment_NewUI,76.01,0,Platinum,1361.27,188.66,204.87,Credit Card,Completed
+CUST_1873,Control_Legacy,74.82,0,Bronze,248.52,67.1,92.11,BNPL,Completed
+CUST_1874,Control_Legacy,97.88,0,Gold,1093.61,143.46,188.41,BNPL,Completed
+CUST_1875,Control_Legacy,66.14,0,Gold,612.78,92.65,103.54,Credit Card,Completed
+CUST_1876,Treatment_NewUI,85.99,1,Bronze,371.67,119.4,112.17,Debit Card,Completed
+CUST_1877,Treatment_NewUI,102.59,0,Bronze,232.08,112.56,143.45,Credit Card,Completed
+CUST_1878,Control_Legacy,119.69,0,Bronze,420.18,107.15,150.9,BNPL,Returned
+CUST_1879,Control_Legacy,104.29,0,Platinum,1460.32,119.69,144.08,Debit Card,Completed
+CUST_1880,Control_Legacy,86.46,0,Silver,650.85,85.97,88.16,Credit Card,Completed
+CUST_1881,Treatment_NewUI,107.87,0,Gold,964.76,150.88,167.52,Credit Card,Completed
+CUST_1882,Control_Legacy,90.81,0,Bronze,179.81,66.18,67.9,Debit Card,Completed
+CUST_1883,Control_Legacy,60.18,0,Gold,795.07,136.19,164.34,BNPL,Completed
+CUST_1884,Treatment_NewUI,137.21,0,Bronze,373.79,110.2,108.43,UPI,Completed
+CUST_1885,Control_Legacy,120.11,1,Bronze,333.33,84.87,98.87,BNPL,Completed
+CUST_1886,Treatment_NewUI,92.39,1,Silver,709.91,126.07,129.51,Debit Card,Completed
+CUST_1887,Control_Legacy,75.56,0,Bronze,352.26,73.29,93.69,Credit Card,Completed
+CUST_1888,Control_Legacy,60.63,0,Gold,775.99,121.19,134.2,BNPL,Returned
+CUST_1889,Control_Legacy,99.2,0,Bronze,256.31,77.31,98.47,Credit Card,Returned
+CUST_1890,Treatment_NewUI,109.62,0,Silver,591.32,133.84,152.67,BNPL,Completed
+CUST_1891,Treatment_NewUI,74.49,0,Silver,325.46,92.27,95.97,Debit Card,Completed
+CUST_1892,Treatment_NewUI,100.4,0,Silver,764.08,106.47,134.37,Credit Card,Completed
+CUST_1893,Control_Legacy,103.55,0,Bronze,355.34,128.82,146.59,UPI,Completed
+CUST_1894,Treatment_NewUI,81.55,0,Bronze,418.16,96.82,100.5,BNPL,Returned
+CUST_1895,Control_Legacy,81.18,0,Platinum,1024.85,118.26,170.37,BNPL,Completed
+CUST_1896,Control_Legacy,80.97,1,Bronze,419.57,74.59,100.23,Credit Card,Returned
+CUST_1897,Treatment_NewUI,75.91,0,Gold,1351.67,138.93,155.13,Credit Card,Completed
+CUST_1898,Control_Legacy,81.61,0,Platinum,1089.78,172.95,212.68,Debit Card,Returned
+CUST_1899,Control_Legacy,51.43,1,Bronze,381.71,203.77,249.89,UPI,Completed
+CUST_1900,Control_Legacy,79.86,0,Bronze,320.09,122.74,139.05,UPI,Completed
+CUST_1901,Control_Legacy,80.19,0,Silver,410.11,143.65,167.36,Credit Card,Completed
+CUST_1902,Control_Legacy,84.14,0,Platinum,1543.22,66.58,70.26,BNPL,Completed
+CUST_1903,Treatment_NewUI,105.95,0,Platinum,1628.4,165.08,181.37,UPI,Completed
+CUST_1904,Control_Legacy,59.03,0,Silver,513.88,143.29,158.8,UPI,Completed
+CUST_1905,Treatment_NewUI,68.67,1,Gold,1159.86,105.48,126.75,Debit Card,Completed
+CUST_1906,Treatment_NewUI,75.34,0,Bronze,186.66,157.12,180.61,Debit Card,Cancelled
+CUST_1907,Control_Legacy,56.99,1,Platinum,1046.31,112.37,139.26,BNPL,Completed
+CUST_1908,Control_Legacy,98.59,0,Platinum,1454.15,106.26,128.32,Debit Card,Completed
+CUST_1909,Control_Legacy,73.24,0,Bronze,322.03,134.26,134.6,BNPL,Cancelled
+CUST_1910,Treatment_NewUI,93.43,0,Bronze,262.67,88.1,92.52,BNPL,Returned
+CUST_1911,Control_Legacy,66.83,0,Bronze,384.77,150.65,160.95,UPI,Completed
+CUST_1912,Treatment_NewUI,85.39,0,Bronze,362.47,88.32,102.59,Debit Card,Completed
+CUST_1913,Control_Legacy,92.12,0,Gold,1104.47,88.5,122.76,Credit Card,Completed
+CUST_1914,Treatment_NewUI,102.77,0,Bronze,310.15,92.71,93.77,Credit Card,Completed
+CUST_1915,Control_Legacy,63.41,0,Bronze,368.21,142.79,155.92,Credit Card,Completed
+CUST_1916,Control_Legacy,83.73,0,Bronze,284.35,101.5,134.29,Credit Card,Completed
+CUST_1917,Treatment_NewUI,73.79,0,Platinum,1933.45,79.56,93.56,Credit Card,Completed
+CUST_1918,Treatment_NewUI,91.34,0,Silver,490.62,101.83,127.24,Credit Card,Completed
+CUST_1919,Control_Legacy,71.52,0,Silver,811.58,119.04,135.45,Debit Card,Cancelled
+CUST_1920,Treatment_NewUI,139.1,0,Bronze,322.79,84.57,106.92,Debit Card,Completed
+CUST_1921,Control_Legacy,103.41,0,Platinum,1076.12,85.45,100.52,Credit Card,Completed
+CUST_1922,Treatment_NewUI,103.85,0,Gold,1196.25,183.34,211.84,Credit Card,Completed
+CUST_1923,Treatment_NewUI,46.97,0,Bronze,330.07,94.18,89.51,UPI,Completed
+CUST_1924,Control_Legacy,79.36,0,Bronze,388.09,110.31,123.36,Debit Card,Completed
+CUST_1925,Control_Legacy,104.09,0,Bronze,417.91,108.98,131.93,Debit Card,Completed
+CUST_1926,Control_Legacy,84.35,0,Bronze,347.04,107.36,133.86,UPI,Completed
+CUST_1927,Treatment_NewUI,135.95,0,Silver,514.85,138.64,179.53,UPI,Completed
+CUST_1928,Treatment_NewUI,117.51,0,Platinum,1663.93,148.44,161.08,Debit Card,Completed
+CUST_1929,Control_Legacy,77.44,0,Silver,580.08,110.82,151.51,UPI,Completed
+CUST_1930,Control_Legacy,119.88,1,Gold,1073.45,82.91,91.52,BNPL,Completed
+CUST_1931,Treatment_NewUI,87.49,0,Silver,343.09,158.23,196.66,UPI,Completed
+CUST_1932,Treatment_NewUI,140.85,0,Gold,1030.46,117.14,147.9,Debit Card,Completed
+CUST_1933,Treatment_NewUI,134.04,0,Gold,835.05,171.91,176.71,UPI,Completed
+CUST_1934,Control_Legacy,92.0,0,Bronze,452.26,52.63,75.74,Credit Card,Completed
+CUST_1935,Control_Legacy,52.13,0,Bronze,369.85,125.86,143.59,Debit Card,Completed
+CUST_1936,Control_Legacy,90.27,0,Silver,606.38,177.56,205.44,BNPL,Completed
+CUST_1937,Treatment_NewUI,67.32,0,Bronze,358.9,109.4,124.55,Debit Card,Completed
+CUST_1938,Control_Legacy,72.13,0,Bronze,240.12,113.24,127.13,BNPL,Completed
+CUST_1939,Treatment_NewUI,80.99,0,Silver,758.56,128.87,167.9,Debit Card,Completed
+CUST_1940,Control_Legacy,61.19,0,Platinum,1917.84,103.24,120.26,BNPL,Returned
+CUST_1941,Treatment_NewUI,99.6,0,Silver,623.22,110.64,141.53,Debit Card,Returned
+CUST_1942,Treatment_NewUI,76.61,0,Gold,1236.27,109.87,124.99,Credit Card,Completed
+CUST_1943,Treatment_NewUI,88.55,0,Silver,517.39,101.18,144.68,Debit Card,Completed
+CUST_1944,Control_Legacy,73.81,0,Gold,806.52,156.87,165.19,Credit Card,Completed
+CUST_1945,Control_Legacy,96.15,0,Silver,584.5,133.83,143.12,Credit Card,Completed
+CUST_1946,Control_Legacy,94.49,0,Gold,1028.29,127.52,168.89,UPI,Completed
+CUST_1947,Treatment_NewUI,86.66,0,Silver,536.66,144.26,156.08,Credit Card,Completed
+CUST_1948,Treatment_NewUI,107.3,0,Silver,639.15,112.07,154.59,UPI,Completed
+CUST_1949,Treatment_NewUI,124.31,1,Silver,613.7,96.77,128.65,Credit Card,Completed
+CUST_1950,Treatment_NewUI,43.07,1,Silver,470.19,101.92,118.1,Credit Card,Completed
+CUST_1951,Treatment_NewUI,79.88,0,Bronze,361.5,120.05,111.35,BNPL,Returned
+CUST_1952,Control_Legacy,64.9,0,Bronze,389.08,88.22,106.43,Debit Card,Completed
+CUST_1953,Treatment_NewUI,77.84,0,Bronze,333.72,104.99,125.02,UPI,Completed
+CUST_1954,Control_Legacy,36.26,0,Gold,1157.48,104.52,140.52,UPI,Cancelled
+CUST_1955,Control_Legacy,38.84,0,Bronze,222.61,183.74,226.06,Debit Card,Returned
+CUST_1956,Treatment_NewUI,26.89,0,Bronze,357.44,36.79,45.01,BNPL,Returned
+CUST_1957,Control_Legacy,74.51,0,Gold,739.35,114.61,145.13,UPI,Completed
+CUST_1958,Control_Legacy,73.92,0,Bronze,230.87,171.77,201.75,Debit Card,Completed
+CUST_1959,Treatment_NewUI,128.21,1,Silver,510.6,123.66,158.26,BNPL,Cancelled
+CUST_1960,Control_Legacy,88.61,0,Bronze,244.64,142.6,168.58,Credit Card,Completed
+CUST_1961,Treatment_NewUI,42.0,0,Platinum,1283.0,122.99,112.36,Debit Card,Returned
+CUST_1962,Control_Legacy,96.68,1,Gold,911.45,99.98,116.15,BNPL,Completed
+CUST_1963,Control_Legacy,171.88,1,Gold,1100.69,52.74,53.91,UPI,Completed
+CUST_1964,Control_Legacy,39.65,0,Silver,544.67,126.16,141.62,UPI,Cancelled
+CUST_1965,Control_Legacy,123.44,0,Gold,664.59,96.73,129.93,UPI,Completed
+CUST_1966,Treatment_NewUI,93.08,0,Bronze,411.21,95.99,119.07,UPI,Completed
+CUST_1967,Control_Legacy,76.17,1,Bronze,253.03,105.03,140.75,BNPL,Completed
+CUST_1968,Treatment_NewUI,80.24,0,Bronze,315.3,172.35,195.97,Credit Card,Completed
+CUST_1969,Control_Legacy,92.75,0,Silver,629.12,192.15,191.17,Credit Card,Completed
+CUST_1970,Treatment_NewUI,84.0,0,Silver,601.96,126.52,107.2,Debit Card,Completed
+CUST_1971,Treatment_NewUI,66.51,0,Silver,700.36,106.06,126.79,UPI,Completed
+CUST_1972,Treatment_NewUI,81.08,0,Bronze,358.32,84.68,99.97,Credit Card,Completed
+CUST_1973,Control_Legacy,93.39,0,Silver,485.26,134.06,137.9,Credit Card,Completed
+CUST_1974,Control_Legacy,100.58,0,Gold,1342.14,173.49,166.48,Credit Card,Cancelled
+CUST_1975,Control_Legacy,126.17,0,Silver,601.38,112.58,120.06,BNPL,Completed
+CUST_1976,Treatment_NewUI,96.6,0,Gold,923.48,48.63,64.21,UPI,Completed
+CUST_1977,Control_Legacy,114.01,0,Bronze,397.11,140.1,168.59,Debit Card,Completed
+CUST_1978,Control_Legacy,81.22,0,Gold,994.9,149.56,170.89,Credit Card,Completed
+CUST_1979,Treatment_NewUI,92.63,0,Silver,623.92,72.42,115.05,Debit Card,Cancelled
+CUST_1980,Control_Legacy,82.94,0,Bronze,519.37,125.29,128.26,Credit Card,Completed
+CUST_1981,Treatment_NewUI,99.46,0,Bronze,297.99,133.54,165.25,Credit Card,Completed
+CUST_1982,Control_Legacy,104.62,0,Silver,545.05,117.81,137.02,BNPL,Completed
+CUST_1983,Control_Legacy,75.48,0,Gold,970.98,96.28,125.2,BNPL,Returned
+CUST_1984,Treatment_NewUI,72.41,0,Silver,697.87,150.48,162.43,Credit Card,Returned
+CUST_1985,Control_Legacy,106.52,0,Bronze,199.48,107.9,142.47,Credit Card,Cancelled
+CUST_1986,Treatment_NewUI,115.66,0,Gold,596.2,75.44,98.37,Credit Card,Completed
+CUST_1987,Control_Legacy,117.9,0,Silver,515.42,58.52,66.82,Debit Card,Cancelled
+CUST_1988,Control_Legacy,72.21,0,Silver,400.27,157.83,176.15,Credit Card,Completed
+CUST_1989,Treatment_NewUI,88.58,0,Silver,533.27,138.5,153.41,Credit Card,Completed
+CUST_1990,Treatment_NewUI,118.62,0,Bronze,360.2,122.64,148.48,Credit Card,Completed
+CUST_1991,Treatment_NewUI,82.77,1,Silver,482.02,106.79,107.6,UPI,Completed
+CUST_1992,Control_Legacy,99.59,1,Bronze,205.85,104.13,122.19,UPI,Completed
+CUST_1993,Treatment_NewUI,89.53,1,Platinum,1437.33,87.73,112.16,UPI,Completed
+CUST_1994,Control_Legacy,92.63,0,Silver,674.88,107.06,126.05,Debit Card,Completed
+CUST_1995,Control_Legacy,60.25,0,Silver,393.55,56.4,95.1,BNPL,Completed
+CUST_1996,Treatment_NewUI,96.29,0,Silver,670.23,97.92,128.03,BNPL,Completed
+CUST_1997,Control_Legacy,19.7,0,Platinum,1624.33,110.67,129.06,Credit Card,Completed
+CUST_1998,Treatment_NewUI,123.75,0,Gold,1121.74,138.3,160.05,Credit Card,Completed
+CUST_1999,Control_Legacy,102.6,0,Silver,714.03,118.8,141.74,Debit Card,Returned
+CUST_2000,Control_Legacy,64.62,0,Gold,1346.36,143.85,168.4,Credit Card,Completed
+CUST_2001,Treatment_NewUI,137.01,0,Silver,540.83,160.47,151.59,Debit Card,Completed
+CUST_2002,Treatment_NewUI,122.02,0,Silver,592.05,151.75,165.72,Debit Card,Completed
+CUST_2003,Treatment_NewUI,67.1,0,Bronze,286.68,134.12,130.35,Debit Card,Returned
+CUST_2004,Treatment_NewUI,81.24,0,Silver,580.22,120.36,158.03,Credit Card,Completed
+CUST_2005,Treatment_NewUI,68.31,0,Bronze,442.63,90.58,108.16,Debit Card,Completed
+CUST_2006,Treatment_NewUI,102.84,0,Platinum,1083.75,142.2,157.8,BNPL,Returned
+CUST_2007,Treatment_NewUI,80.23,0,Bronze,251.12,170.39,202.34,Credit Card,Completed
+CUST_2008,Control_Legacy,43.43,0,Platinum,1764.3,130.26,155.1,UPI,Completed
+CUST_2009,Control_Legacy,83.99,0,Silver,692.2,177.52,179.09,Credit Card,Completed
+CUST_2010,Control_Legacy,105.55,0,Silver,540.06,74.23,91.67,Credit Card,Completed
+CUST_2011,Treatment_NewUI,96.79,0,Silver,673.98,85.38,98.85,Debit Card,Returned
+CUST_2012,Treatment_NewUI,107.52,0,Bronze,347.3,145.66,137.99,Credit Card,Completed
+CUST_2013,Control_Legacy,89.9,0,Bronze,440.02,127.93,136.07,Credit Card,Completed
+CUST_2014,Treatment_NewUI,112.15,0,Bronze,325.96,159.41,175.16,Credit Card,Completed
+CUST_2015,Treatment_NewUI,101.27,0,Silver,692.82,119.54,136.31,Debit Card,Completed
+CUST_2016,Control_Legacy,82.8,0,Silver,870.62,93.96,90.23,UPI,Completed
+CUST_2017,Treatment_NewUI,96.49,0,Gold,1057.66,113.59,149.37,Credit Card,Completed
+CUST_2018,Treatment_NewUI,131.35,1,Bronze,323.95,74.02,90.99,UPI,Completed
+CUST_2019,Control_Legacy,98.75,0,Bronze,377.8,86.14,105.21,Credit Card,Completed
+CUST_2020,Treatment_NewUI,70.88,1,Silver,539.82,149.17,173.68,UPI,Completed
+CUST_2021,Control_Legacy,87.2,0,Platinum,2016.99,146.18,152.86,Debit Card,Completed
+CUST_2022,Treatment_NewUI,102.39,0,Gold,982.41,130.89,156.24,UPI,Completed
+CUST_2023,Treatment_NewUI,90.4,0,Silver,549.98,68.37,81.36,BNPL,Completed
+CUST_2024,Treatment_NewUI,47.46,1,Silver,488.07,109.25,114.3,BNPL,Completed
+CUST_2025,Control_Legacy,66.57,1,Bronze,407.78,83.25,110.35,Credit Card,Completed
+CUST_2026,Treatment_NewUI,84.07,0,Platinum,1636.8,155.3,196.17,BNPL,Completed
+CUST_2027,Treatment_NewUI,140.45,0,Silver,525.29,102.49,131.86,Credit Card,Completed
+CUST_2028,Control_Legacy,96.19,0,Bronze,366.12,87.43,119.77,BNPL,Completed
+CUST_2029,Treatment_NewUI,56.29,0,Silver,414.06,120.89,131.58,Credit Card,Completed
+CUST_2030,Control_Legacy,83.44,0,Bronze,334.8,100.8,95.33,Debit Card,Completed
+CUST_2031,Treatment_NewUI,126.68,0,Platinum,1533.19,164.51,205.36,Credit Card,Completed
+CUST_2032,Control_Legacy,72.66,0,Bronze,456.59,97.96,147.27,Credit Card,Completed
+CUST_2033,Control_Legacy,108.34,1,Silver,495.21,78.02,119.67,UPI,Completed
+CUST_2034,Control_Legacy,52.07,0,Bronze,217.73,55.41,68.88,BNPL,Returned
+CUST_2035,Treatment_NewUI,24.81,0,Gold,788.82,119.08,120.26,UPI,Completed
+CUST_2036,Control_Legacy,111.91,0,Gold,709.42,103.14,105.66,UPI,Completed
+CUST_2037,Treatment_NewUI,82.85,0,Silver,727.03,77.13,70.38,UPI,Completed
+CUST_2038,Control_Legacy,44.37,0,Silver,750.35,155.68,172.57,Credit Card,Completed
+CUST_2039,Control_Legacy,76.95,1,Gold,1007.64,140.02,182.6,Credit Card,Completed
+CUST_2040,Treatment_NewUI,98.87,0,Bronze,417.7,119.15,135.53,Credit Card,Completed
+CUST_2041,Treatment_NewUI,105.21,1,Bronze,330.72,160.93,183.96,Debit Card,Completed
+CUST_2042,Control_Legacy,30.76,0,Bronze,312.39,139.88,179.01,Credit Card,Completed
+CUST_2043,Treatment_NewUI,78.07,0,Platinum,1336.74,95.31,107.75,Credit Card,Completed
+CUST_2044,Treatment_NewUI,95.65,0,Bronze,295.17,88.82,137.86,Credit Card,Completed
+CUST_2045,Treatment_NewUI,105.15,1,Gold,671.4,144.54,192.92,Credit Card,Completed
+CUST_2046,Control_Legacy,64.32,0,Silver,609.07,131.89,148.42,BNPL,Completed
+CUST_2047,Control_Legacy,80.95,0,Bronze,316.77,125.09,134.93,Credit Card,Cancelled
+CUST_2048,Treatment_NewUI,79.83,0,Bronze,379.63,94.61,123.56,Debit Card,Returned
+CUST_2049,Control_Legacy,90.43,0,Bronze,327.48,138.24,151.53,Debit Card,Completed
+CUST_2050,Treatment_NewUI,122.6,0,Silver,562.1,97.34,98.49,Debit Card,Completed
+CUST_2051,Treatment_NewUI,85.96,0,Bronze,250.3,116.94,154.66,Credit Card,Completed
+CUST_2052,Treatment_NewUI,60.59,1,Bronze,325.77,163.41,200.16,Credit Card,Completed
+CUST_2053,Treatment_NewUI,76.82,0,Gold,1082.88,100.17,121.01,Credit Card,Completed
+CUST_2054,Treatment_NewUI,136.71,0,Platinum,1134.17,72.81,72.37,Debit Card,Completed
+CUST_2055,Control_Legacy,66.65,1,Bronze,327.0,88.42,88.48,Credit Card,Completed
+CUST_2056,Treatment_NewUI,64.75,1,Bronze,338.64,149.83,169.94,Debit Card,Completed
+CUST_2057,Control_Legacy,76.8,0,Bronze,262.55,127.64,138.64,UPI,Completed
+CUST_2058,Control_Legacy,83.45,0,Silver,515.34,116.13,129.52,Debit Card,Completed
+CUST_2059,Treatment_NewUI,81.23,0,Gold,991.51,104.73,138.56,Debit Card,Returned
+CUST_2060,Treatment_NewUI,57.1,0,Bronze,229.33,134.56,164.06,Debit Card,Completed
+CUST_2061,Treatment_NewUI,102.08,0,Bronze,347.99,94.53,133.7,UPI,Completed
+CUST_2062,Treatment_NewUI,99.72,0,Gold,788.84,129.17,132.81,Credit Card,Completed
+CUST_2063,Control_Legacy,100.74,0,Silver,696.91,98.06,111.41,UPI,Completed
+CUST_2064,Control_Legacy,89.95,0,Bronze,507.03,93.07,122.95,UPI,Completed
+CUST_2065,Treatment_NewUI,134.18,0,Silver,485.32,100.88,126.1,Debit Card,Completed
+CUST_2066,Control_Legacy,102.55,0,Bronze,362.74,108.74,150.22,Credit Card,Completed
+CUST_2067,Control_Legacy,97.67,0,Bronze,261.86,118.54,143.34,Debit Card,Returned
+CUST_2068,Control_Legacy,111.91,0,Gold,1137.37,127.06,173.29,Credit Card,Completed
+CUST_2069,Control_Legacy,88.59,0,Gold,722.25,10.0,35.95,Credit Card,Completed
+CUST_2070,Control_Legacy,81.41,0,Silver,632.86,95.77,130.2,Credit Card,Completed
+CUST_2071,Control_Legacy,92.32,0,Platinum,1201.75,108.25,121.9,Credit Card,Completed
+CUST_2072,Control_Legacy,42.58,0,Silver,557.23,165.15,183.87,Debit Card,Completed
+CUST_2073,Control_Legacy,88.66,0,Gold,764.42,87.6,119.76,UPI,Completed
+CUST_2074,Treatment_NewUI,91.89,0,Silver,670.46,124.88,167.58,Credit Card,Completed
+CUST_2075,Control_Legacy,94.73,0,Gold,799.34,164.85,194.29,BNPL,Returned
+CUST_2076,Control_Legacy,108.42,0,Platinum,1557.99,80.61,97.86,BNPL,Cancelled
+CUST_2077,Treatment_NewUI,108.5,0,Bronze,292.47,131.82,170.98,BNPL,Completed
+CUST_2078,Control_Legacy,69.95,0,Platinum,1391.38,95.93,81.55,UPI,Completed
+CUST_2079,Treatment_NewUI,115.16,1,Gold,976.6,104.86,102.03,Debit Card,Completed
+CUST_2080,Treatment_NewUI,134.61,0,Gold,812.87,95.91,124.63,Credit Card,Completed
+CUST_2081,Control_Legacy,109.05,1,Bronze,336.83,98.04,116.76,Debit Card,Completed
+CUST_2082,Control_Legacy,57.05,0,Gold,1225.46,201.66,229.24,Debit Card,Completed
+CUST_2083,Treatment_NewUI,108.22,0,Gold,809.94,145.33,164.8,UPI,Completed
+CUST_2084,Treatment_NewUI,65.74,1,Bronze,413.74,153.05,180.12,BNPL,Completed
+CUST_2085,Control_Legacy,79.27,0,Platinum,1794.52,134.76,141.04,Debit Card,Completed
+CUST_2086,Treatment_NewUI,103.73,1,Bronze,254.71,71.81,98.87,Credit Card,Completed
+CUST_2087,Control_Legacy,91.03,0,Bronze,203.6,131.85,165.26,Credit Card,Completed
+CUST_2088,Treatment_NewUI,119.89,1,Silver,613.22,152.19,189.0,Credit Card,Cancelled
+CUST_2089,Control_Legacy,121.92,0,Silver,519.79,94.4,143.1,Debit Card,Completed
+CUST_2090,Treatment_NewUI,106.23,0,Silver,785.55,148.96,171.12,Debit Card,Completed
+CUST_2091,Treatment_NewUI,85.43,0,Bronze,322.78,141.13,163.74,UPI,Completed
+CUST_2092,Treatment_NewUI,47.42,1,Platinum,1219.45,175.56,171.21,Debit Card,Returned
+CUST_2093,Treatment_NewUI,126.5,0,Bronze,228.23,107.47,118.0,BNPL,Completed
+CUST_2094,Control_Legacy,83.54,0,Bronze,407.19,87.07,102.68,UPI,Completed
+CUST_2095,Control_Legacy,84.67,0,Bronze,274.31,109.15,143.41,UPI,Completed
+CUST_2096,Control_Legacy,86.41,0,Silver,584.82,163.07,172.4,Credit Card,Completed
+CUST_2097,Control_Legacy,95.25,0,Platinum,1658.95,65.15,95.59,BNPL,Completed
+CUST_2098,Treatment_NewUI,105.8,0,Silver,526.73,57.95,76.42,UPI,Completed
+CUST_2099,Control_Legacy,79.61,0,Gold,941.73,122.68,138.52,Credit Card,Completed
+CUST_2100,Control_Legacy,83.32,0,Bronze,318.67,106.72,128.96,Credit Card,Completed
+CUST_2101,Treatment_NewUI,79.43,0,Silver,655.17,120.23,132.86,BNPL,Completed
+CUST_2102,Treatment_NewUI,76.86,0,Silver,644.98,148.36,160.42,Credit Card,Completed
+CUST_2103,Treatment_NewUI,76.75,0,Silver,555.79,103.42,96.35,Debit Card,Completed
+CUST_2104,Treatment_NewUI,91.49,0,Bronze,325.09,63.81,78.59,Credit Card,Returned
+CUST_2105,Control_Legacy,65.77,0,Silver,539.1,181.33,192.63,UPI,Completed
+CUST_2106,Control_Legacy,21.55,0,Silver,417.46,90.08,100.84,UPI,Completed
+CUST_2107,Treatment_NewUI,85.02,0,Gold,996.37,88.23,112.98,Debit Card,Completed
+CUST_2108,Treatment_NewUI,63.88,0,Silver,788.14,153.11,181.49,Debit Card,Completed
+CUST_2109,Control_Legacy,87.91,0,Bronze,249.3,108.47,130.45,BNPL,Completed
+CUST_2110,Treatment_NewUI,79.34,1,Silver,494.97,118.1,151.53,UPI,Completed
+CUST_2111,Control_Legacy,95.53,0,Bronze,250.34,134.48,161.62,BNPL,Completed
+CUST_2112,Control_Legacy,60.1,0,Gold,1080.43,152.51,166.58,Debit Card,Returned
+CUST_2113,Treatment_NewUI,51.28,1,Silver,629.33,110.0,121.55,Credit Card,Completed
+CUST_2114,Treatment_NewUI,91.83,0,Bronze,307.32,165.6,188.79,Debit Card,Completed
+CUST_2115,Treatment_NewUI,84.01,0,Platinum,1190.5,55.93,83.03,UPI,Completed
+CUST_2116,Control_Legacy,56.52,0,Silver,590.16,142.79,182.26,Credit Card,Returned
+CUST_2117,Treatment_NewUI,113.21,0,Bronze,194.83,94.81,131.18,Credit Card,Returned
+CUST_2118,Control_Legacy,63.45,0,Silver,595.78,161.17,171.55,Credit Card,Cancelled
+CUST_2119,Control_Legacy,68.95,0,Bronze,389.72,124.26,141.23,Debit Card,Completed
+CUST_2120,Treatment_NewUI,118.1,0,Gold,724.78,99.81,128.38,UPI,Completed
+CUST_2121,Treatment_NewUI,106.83,0,Gold,674.15,139.89,174.41,Credit Card,Completed
+CUST_2122,Treatment_NewUI,67.16,0,Platinum,1814.86,146.8,179.38,UPI,Completed
+CUST_2123,Treatment_NewUI,86.1,0,Silver,512.71,139.26,156.8,BNPL,Completed
+CUST_2124,Treatment_NewUI,64.88,1,Silver,704.95,89.11,88.8,Credit Card,Completed
+CUST_2125,Treatment_NewUI,116.1,0,Gold,922.28,105.48,109.0,UPI,Completed
+CUST_2126,Control_Legacy,105.14,0,Bronze,307.04,119.88,142.47,BNPL,Returned
+CUST_2127,Control_Legacy,125.75,0,Silver,628.23,118.76,142.4,BNPL,Completed
+CUST_2128,Control_Legacy,135.7,0,Silver,482.76,142.49,144.51,Credit Card,Returned
+CUST_2129,Control_Legacy,71.91,0,Bronze,330.6,59.55,78.72,Credit Card,Completed
+CUST_2130,Treatment_NewUI,111.66,0,Silver,538.04,130.03,158.0,Credit Card,Completed
+CUST_2131,Control_Legacy,44.07,0,Gold,712.31,111.3,112.53,UPI,Completed
+CUST_2132,Control_Legacy,89.57,0,Gold,1010.75,94.84,129.92,UPI,Completed
+CUST_2133,Control_Legacy,94.86,0,Bronze,298.94,97.73,110.56,UPI,Completed
+CUST_2134,Treatment_NewUI,70.87,0,Bronze,307.44,113.56,150.93,Credit Card,Completed
+CUST_2135,Control_Legacy,70.61,0,Bronze,223.19,11.97,22.47,Credit Card,Completed
+CUST_2136,Treatment_NewUI,116.26,0,Gold,1236.45,98.96,102.06,Debit Card,Completed
+CUST_2137,Control_Legacy,95.43,0,Bronze,390.14,93.73,105.35,Debit Card,Cancelled
+CUST_2138,Control_Legacy,122.18,0,Gold,1123.55,135.98,153.06,UPI,Completed
+CUST_2139,Treatment_NewUI,131.52,0,Bronze,295.56,95.83,108.51,Debit Card,Completed
+CUST_2140,Treatment_NewUI,53.61,0,Silver,389.79,113.55,128.81,Credit Card,Completed
+CUST_2141,Control_Legacy,73.96,0,Bronze,476.23,166.27,189.78,Credit Card,Completed
+CUST_2142,Treatment_NewUI,68.47,0,Gold,939.0,149.83,165.76,Credit Card,Completed
+CUST_2143,Treatment_NewUI,112.76,0,Bronze,260.1,147.07,164.58,Credit Card,Completed
+CUST_2144,Control_Legacy,91.74,0,Silver,625.85,105.0,97.87,Credit Card,Completed
+CUST_2145,Treatment_NewUI,70.0,1,Bronze,413.37,136.29,160.67,Credit Card,Completed
+CUST_2146,Treatment_NewUI,73.45,0,Gold,945.85,112.98,130.15,Credit Card,Completed
+CUST_2147,Treatment_NewUI,124.82,0,Gold,1180.14,114.12,156.77,Credit Card,Completed
+CUST_2148,Treatment_NewUI,83.96,1,Bronze,406.64,132.29,136.7,UPI,Completed
+CUST_2149,Treatment_NewUI,44.57,1,Gold,756.25,102.09,93.47,Credit Card,Returned
+CUST_2150,Treatment_NewUI,67.96,0,Silver,505.88,164.79,192.56,UPI,Completed
+CUST_2151,Treatment_NewUI,141.03,1,Bronze,396.6,115.2,138.89,UPI,Completed
+CUST_2152,Treatment_NewUI,118.88,0,Silver,281.61,138.55,141.92,Debit Card,Returned
+CUST_2153,Treatment_NewUI,63.45,1,Bronze,308.04,163.67,159.22,BNPL,Completed
+CUST_2154,Treatment_NewUI,98.73,0,Gold,692.45,150.95,192.51,Credit Card,Completed
+CUST_2155,Treatment_NewUI,117.18,0,Gold,864.22,77.73,117.44,UPI,Cancelled
+CUST_2156,Control_Legacy,48.79,0,Bronze,296.09,133.35,114.54,BNPL,Completed
+CUST_2157,Treatment_NewUI,120.14,0,Silver,540.59,145.52,157.15,BNPL,Completed
+CUST_2158,Treatment_NewUI,105.01,0,Gold,850.59,146.76,190.22,Credit Card,Completed
+CUST_2159,Control_Legacy,69.37,0,Platinum,1145.71,86.6,97.96,Credit Card,Completed
+CUST_2160,Treatment_NewUI,108.98,0,Silver,832.11,100.29,111.43,Credit Card,Completed
+CUST_2161,Control_Legacy,92.06,0,Platinum,1886.87,149.84,164.1,UPI,Completed
+CUST_2162,Control_Legacy,93.59,0,Silver,452.17,97.15,98.83,UPI,Completed
+CUST_2163,Treatment_NewUI,97.83,1,Bronze,446.57,111.01,103.94,Credit Card,Completed
+CUST_2164,Control_Legacy,66.12,0,Gold,878.1,167.28,201.56,Debit Card,Completed
+CUST_2165,Treatment_NewUI,76.75,0,Silver,594.21,118.57,109.42,UPI,Completed
+CUST_2166,Treatment_NewUI,88.37,0,Silver,573.04,98.2,120.41,Debit Card,Completed
+CUST_2167,Treatment_NewUI,95.33,0,Silver,507.43,93.67,125.47,BNPL,Returned
+CUST_2168,Control_Legacy,100.14,0,Gold,1127.09,129.98,126.71,UPI,Completed
+CUST_2169,Control_Legacy,128.21,1,Gold,972.66,80.01,84.64,Credit Card,Returned
+CUST_2170,Treatment_NewUI,99.87,1,Silver,527.58,112.58,149.28,UPI,Completed
+CUST_2171,Treatment_NewUI,110.04,0,Bronze,215.63,130.0,156.49,Credit Card,Completed
+CUST_2172,Treatment_NewUI,115.79,1,Silver,481.7,158.97,168.22,Debit Card,Completed
+CUST_2173,Control_Legacy,101.36,1,Silver,399.45,140.03,176.56,BNPL,Returned
+CUST_2174,Treatment_NewUI,71.75,0,Bronze,320.98,98.58,135.18,BNPL,Returned
+CUST_2175,Treatment_NewUI,127.41,1,Gold,734.6,155.35,177.89,Debit Card,Completed
+CUST_2176,Treatment_NewUI,122.87,0,Silver,550.79,111.01,116.01,Credit Card,Completed
+CUST_2177,Control_Legacy,88.45,0,Bronze,429.61,82.93,95.23,Credit Card,Returned
+CUST_2178,Treatment_NewUI,73.09,0,Bronze,415.94,114.84,137.63,Debit Card,Completed
+CUST_2179,Treatment_NewUI,94.94,0,Bronze,317.42,163.15,178.82,Credit Card,Completed
+CUST_2180,Treatment_NewUI,55.94,0,Platinum,1398.23,124.96,157.54,Debit Card,Completed
+CUST_2181,Control_Legacy,118.58,1,Bronze,470.39,120.38,115.93,Credit Card,Completed
+CUST_2182,Treatment_NewUI,78.82,1,Bronze,361.66,169.12,165.2,Credit Card,Completed
+CUST_2183,Treatment_NewUI,87.14,0,Silver,543.94,77.06,98.27,Credit Card,Completed
+CUST_2184,Control_Legacy,116.71,0,Bronze,205.92,81.43,92.56,BNPL,Completed
+CUST_2185,Treatment_NewUI,33.25,0,Bronze,351.51,71.52,80.62,UPI,Completed
+CUST_2186,Treatment_NewUI,125.49,0,Bronze,386.35,131.18,123.16,Credit Card,Completed
+CUST_2187,Control_Legacy,92.94,0,Silver,510.52,124.99,143.79,Credit Card,Completed
+CUST_2188,Control_Legacy,122.38,0,Silver,612.03,166.28,183.99,Debit Card,Cancelled
+CUST_2189,Treatment_NewUI,71.04,0,Bronze,290.91,127.3,155.61,Credit Card,Completed
+CUST_2190,Control_Legacy,92.95,1,Silver,559.76,107.88,127.41,Debit Card,Returned
+CUST_2191,Treatment_NewUI,71.22,0,Platinum,798.04,120.05,136.56,UPI,Completed
+CUST_2192,Control_Legacy,109.72,0,Bronze,302.26,123.53,159.69,UPI,Completed
+CUST_2193,Treatment_NewUI,120.2,0,Bronze,397.55,69.85,68.66,UPI,Completed
+CUST_2194,Control_Legacy,124.25,0,Bronze,269.49,201.31,227.86,Debit Card,Completed
+CUST_2195,Treatment_NewUI,94.19,1,Silver,585.78,135.6,129.03,BNPL,Returned
+CUST_2196,Treatment_NewUI,145.31,0,Gold,813.93,126.3,132.22,BNPL,Completed
+CUST_2197,Treatment_NewUI,69.34,0,Bronze,348.84,138.45,138.77,Debit Card,Cancelled
+CUST_2198,Treatment_NewUI,92.88,0,Gold,911.03,141.28,171.51,Credit Card,Completed
+CUST_2199,Control_Legacy,63.89,0,Bronze,244.86,115.78,133.3,Debit Card,Completed
+CUST_2200,Treatment_NewUI,99.01,0,Silver,726.58,101.06,119.36,Credit Card,Completed
+CUST_2201,Control_Legacy,65.61,0,Gold,1117.21,137.98,139.88,UPI,Completed
+CUST_2202,Control_Legacy,109.79,1,Bronze,271.61,131.57,145.58,Debit Card,Completed
+CUST_2203,Control_Legacy,95.95,0,Silver,634.76,95.7,102.75,Credit Card,Completed
+CUST_2204,Control_Legacy,61.47,0,Bronze,362.99,162.57,186.82,Credit Card,Completed
+CUST_2205,Treatment_NewUI,114.65,0,Gold,1065.61,128.8,132.43,Debit Card,Completed
+CUST_2206,Treatment_NewUI,133.15,0,Bronze,184.46,141.89,180.34,BNPL,Completed
+CUST_2207,Control_Legacy,98.13,0,Gold,1131.19,161.76,155.12,Debit Card,Completed
+CUST_2208,Control_Legacy,55.45,0,Bronze,274.42,120.66,127.06,UPI,Completed
+CUST_2209,Treatment_NewUI,90.55,0,Gold,885.59,129.51,173.17,Credit Card,Completed
+CUST_2210,Control_Legacy,101.03,1,Bronze,531.03,144.3,156.27,Debit Card,Completed
+CUST_2211,Control_Legacy,80.16,0,Gold,1004.34,98.25,97.03,Debit Card,Completed
+CUST_2212,Control_Legacy,62.92,0,Bronze,289.09,121.62,143.41,UPI,Completed
+CUST_2213,Treatment_NewUI,124.34,0,Platinum,868.68,123.77,135.14,Credit Card,Completed
+CUST_2214,Treatment_NewUI,87.23,0,Bronze,431.18,91.32,97.28,Debit Card,Completed
+CUST_2215,Control_Legacy,120.49,0,Bronze,212.38,189.53,191.59,Credit Card,Completed
+CUST_2216,Control_Legacy,74.07,0,Silver,469.62,77.78,137.81,Credit Card,Completed
+CUST_2217,Treatment_NewUI,85.85,0,Bronze,293.49,81.06,95.78,BNPL,Returned
+CUST_2218,Treatment_NewUI,79.65,0,Bronze,433.31,159.43,149.04,Credit Card,Completed
+CUST_2219,Control_Legacy,81.86,0,Platinum,1613.31,141.4,182.3,Credit Card,Completed
+CUST_2220,Treatment_NewUI,105.43,0,Platinum,1380.54,89.22,116.89,Debit Card,Completed
+CUST_2221,Control_Legacy,63.95,0,Bronze,344.66,138.22,145.22,BNPL,Completed
+CUST_2222,Control_Legacy,60.13,1,Platinum,1269.9,164.04,168.54,Debit Card,Completed
+CUST_2223,Treatment_NewUI,52.86,0,Silver,595.36,119.09,147.69,UPI,Completed
+CUST_2224,Control_Legacy,46.03,0,Bronze,325.87,197.96,212.76,BNPL,Completed
+CUST_2225,Treatment_NewUI,60.99,0,Gold,1124.38,68.28,57.89,Credit Card,Completed
+CUST_2226,Control_Legacy,73.93,0,Silver,686.39,140.81,186.12,Debit Card,Completed
+CUST_2227,Control_Legacy,89.41,0,Platinum,1543.49,155.0,166.99,Debit Card,Completed
+CUST_2228,Treatment_NewUI,104.01,1,Bronze,291.01,146.74,187.67,UPI,Completed
+CUST_2229,Control_Legacy,88.38,0,Silver,661.6,113.87,151.55,Credit Card,Completed
+CUST_2230,Treatment_NewUI,129.75,0,Bronze,312.64,111.29,114.77,Credit Card,Completed
+CUST_2231,Control_Legacy,125.26,0,Bronze,233.45,133.32,167.32,UPI,Completed
+CUST_2232,Control_Legacy,79.34,0,Bronze,287.74,144.47,153.2,Debit Card,Completed
+CUST_2233,Control_Legacy,64.28,0,Platinum,1441.13,138.07,128.57,Debit Card,Completed
+CUST_2234,Treatment_NewUI,147.24,0,Gold,1113.84,151.2,163.33,Debit Card,Completed
+CUST_2235,Control_Legacy,111.69,0,Gold,916.96,89.43,113.9,Credit Card,Cancelled
+CUST_2236,Treatment_NewUI,121.29,0,Silver,446.99,113.17,124.73,Debit Card,Completed
+CUST_2237,Control_Legacy,73.09,1,Bronze,324.54,91.8,105.69,Debit Card,Completed
+CUST_2238,Treatment_NewUI,115.31,0,Bronze,329.08,108.42,144.07,BNPL,Returned
+CUST_2239,Control_Legacy,88.56,0,Bronze,334.87,150.46,170.55,Credit Card,Completed
+CUST_2240,Treatment_NewUI,92.39,0,Bronze,393.59,123.24,129.09,BNPL,Returned
+CUST_2241,Treatment_NewUI,92.35,0,Gold,1133.41,198.21,227.24,UPI,Completed
+CUST_2242,Treatment_NewUI,106.59,0,Silver,514.64,125.8,147.27,Credit Card,Completed
+CUST_2243,Treatment_NewUI,130.68,1,Bronze,270.71,121.79,102.47,UPI,Completed
+CUST_2244,Treatment_NewUI,149.85,0,Bronze,236.78,123.19,148.11,Credit Card,Completed
+CUST_2245,Treatment_NewUI,84.29,0,Bronze,375.91,100.87,125.24,BNPL,Completed
+CUST_2246,Control_Legacy,89.8,1,Silver,739.37,118.26,137.07,BNPL,Completed
+CUST_2247,Control_Legacy,83.33,0,Platinum,1341.23,153.83,185.71,Credit Card,Completed
+CUST_2248,Treatment_NewUI,104.88,0,Silver,553.44,123.42,131.83,Credit Card,Completed
+CUST_2249,Treatment_NewUI,32.16,0,Gold,1214.02,96.2,119.74,Debit Card,Completed
+CUST_2250,Treatment_NewUI,88.75,0,Silver,635.61,92.25,87.24,Debit Card,Completed
+CUST_2251,Control_Legacy,130.53,0,Bronze,354.9,106.49,131.1,Debit Card,Completed
+CUST_2252,Control_Legacy,70.65,0,Bronze,224.73,122.22,170.01,Credit Card,Completed
+CUST_2253,Control_Legacy,76.63,0,Gold,1072.17,155.81,159.38,UPI,Completed
+CUST_2254,Treatment_NewUI,80.72,0,Gold,782.76,79.79,86.89,Credit Card,Completed
+CUST_2255,Control_Legacy,82.27,0,Bronze,229.28,110.41,118.25,UPI,Completed
+CUST_2256,Control_Legacy,57.06,0,Silver,541.86,124.33,144.78,UPI,Completed
+CUST_2257,Control_Legacy,73.79,1,Silver,515.56,64.99,67.54,Debit Card,Completed
+CUST_2258,Control_Legacy,94.87,0,Silver,555.62,94.99,119.81,BNPL,Completed
+CUST_2259,Treatment_NewUI,104.45,0,Platinum,1059.75,99.6,130.81,Credit Card,Completed
+CUST_2260,Control_Legacy,91.06,0,Silver,685.47,96.12,122.64,Credit Card,Completed
+CUST_2261,Treatment_NewUI,128.12,0,Silver,704.05,125.76,117.73,UPI,Completed
+CUST_2262,Control_Legacy,95.76,0,Bronze,164.21,115.18,148.61,Debit Card,Completed
+CUST_2263,Control_Legacy,115.12,0,Bronze,398.28,103.34,135.9,Debit Card,Completed
+CUST_2264,Control_Legacy,135.49,0,Bronze,255.16,132.84,163.79,BNPL,Completed
+CUST_2265,Control_Legacy,105.06,0,Bronze,388.56,171.69,195.78,BNPL,Cancelled
+CUST_2266,Control_Legacy,57.16,1,Gold,937.68,169.18,190.98,UPI,Completed
+CUST_2267,Control_Legacy,91.94,0,Gold,955.18,62.32,96.3,UPI,Completed
+CUST_2268,Treatment_NewUI,97.65,0,Bronze,305.19,137.31,184.66,Credit Card,Completed
+CUST_2269,Control_Legacy,120.45,0,Gold,1168.18,114.66,118.86,Credit Card,Completed
+CUST_2270,Treatment_NewUI,91.47,1,Bronze,220.83,124.65,159.33,UPI,Completed
+CUST_2271,Treatment_NewUI,74.48,1,Bronze,368.63,108.05,125.26,Debit Card,Completed
+CUST_2272,Treatment_NewUI,82.5,1,Bronze,408.11,123.53,140.08,Debit Card,Completed
+CUST_2273,Control_Legacy,57.89,0,Bronze,377.31,124.54,119.99,Credit Card,Returned
+CUST_2274,Control_Legacy,21.05,0,Bronze,505.98,102.63,116.86,UPI,Completed
+CUST_2275,Control_Legacy,130.67,0,Silver,521.82,93.11,96.65,Credit Card,Completed
+CUST_2276,Control_Legacy,85.91,1,Silver,685.3,106.54,118.08,UPI,Returned
+CUST_2277,Treatment_NewUI,65.49,1,Platinum,1393.48,127.03,129.05,Credit Card,Returned
+CUST_2278,Control_Legacy,122.81,0,Bronze,418.67,137.97,149.74,Credit Card,Completed
+CUST_2279,Control_Legacy,127.24,0,Bronze,319.38,145.6,158.01,Credit Card,Completed
+CUST_2280,Treatment_NewUI,98.49,0,Bronze,288.97,105.17,125.13,Credit Card,Completed
+CUST_2281,Treatment_NewUI,61.45,1,Silver,723.67,128.52,122.79,BNPL,Returned
+CUST_2282,Treatment_NewUI,83.06,1,Bronze,280.68,148.88,145.69,Credit Card,Completed
+CUST_2283,Control_Legacy,80.69,1,Gold,695.71,154.97,178.9,Credit Card,Completed
+CUST_2284,Control_Legacy,86.65,0,Silver,523.15,118.24,124.77,Debit Card,Completed
+CUST_2285,Treatment_NewUI,68.22,0,Silver,648.09,113.37,147.99,Debit Card,Completed
+CUST_2286,Control_Legacy,107.01,1,Silver,733.12,125.73,147.61,Credit Card,Completed
+CUST_2287,Control_Legacy,39.18,1,Bronze,328.89,85.51,113.11,Credit Card,Completed
+CUST_2288,Control_Legacy,110.88,0,Bronze,425.46,114.19,153.85,BNPL,Completed
+CUST_2289,Control_Legacy,116.0,0,Bronze,211.35,142.34,156.19,UPI,Completed
+CUST_2290,Control_Legacy,77.55,0,Silver,531.24,139.26,149.14,Debit Card,Completed
+CUST_2291,Control_Legacy,84.09,0,Bronze,296.91,111.89,143.47,Debit Card,Completed
+CUST_2292,Treatment_NewUI,131.69,0,Bronze,310.84,126.53,152.67,Credit Card,Completed
+CUST_2293,Treatment_NewUI,110.49,0,Platinum,1441.02,95.26,110.95,Credit Card,Completed
+CUST_2294,Treatment_NewUI,86.19,1,Bronze,375.27,141.1,180.48,UPI,Completed
+CUST_2295,Control_Legacy,80.8,0,Gold,869.93,117.67,132.98,BNPL,Completed
+CUST_2296,Control_Legacy,96.75,0,Gold,975.03,111.72,130.71,Credit Card,Completed
+CUST_2297,Control_Legacy,128.07,0,Bronze,316.39,109.15,127.97,UPI,Completed
+CUST_2298,Treatment_NewUI,89.71,0,Bronze,245.93,118.11,122.59,Credit Card,Completed
+CUST_2299,Treatment_NewUI,85.46,0,Bronze,310.91,106.56,126.23,Credit Card,Completed
+CUST_2300,Control_Legacy,86.49,0,Silver,564.2,139.74,179.2,Credit Card,Completed
+CUST_2301,Treatment_NewUI,95.45,0,Silver,561.84,108.14,133.32,Credit Card,Completed
+CUST_2302,Control_Legacy,92.61,0,Gold,955.72,167.79,186.75,BNPL,Completed
+CUST_2303,Treatment_NewUI,92.71,0,Platinum,1438.92,163.96,180.03,Debit Card,Completed
+CUST_2304,Treatment_NewUI,124.11,0,Silver,532.45,93.25,116.72,Credit Card,Completed
+CUST_2305,Treatment_NewUI,72.72,0,Bronze,421.82,122.09,151.84,BNPL,Completed
+CUST_2306,Treatment_NewUI,104.85,0,Bronze,226.44,100.48,128.12,BNPL,Returned
+CUST_2307,Treatment_NewUI,105.85,1,Gold,820.23,110.2,123.72,UPI,Completed
+CUST_2308,Control_Legacy,68.0,0,Bronze,542.4,180.07,203.44,BNPL,Returned
+CUST_2309,Treatment_NewUI,104.6,0,Bronze,236.96,110.77,136.47,Credit Card,Returned
+CUST_2310,Control_Legacy,96.56,0,Gold,706.32,130.81,134.2,UPI,Returned
+CUST_2311,Treatment_NewUI,33.11,1,Silver,660.79,136.24,157.26,UPI,Completed
+CUST_2312,Treatment_NewUI,70.54,1,Platinum,900.72,89.98,76.06,BNPL,Completed
+CUST_2313,Treatment_NewUI,134.11,1,Silver,554.12,94.35,120.09,UPI,Completed
+CUST_2314,Control_Legacy,72.7,0,Bronze,491.67,83.82,112.22,Credit Card,Returned
+CUST_2315,Treatment_NewUI,65.44,0,Platinum,1033.77,93.42,123.13,UPI,Completed
+CUST_2316,Treatment_NewUI,49.32,0,Bronze,161.44,34.5,47.07,Credit Card,Completed
+CUST_2317,Treatment_NewUI,68.44,0,Bronze,200.07,136.34,159.47,Credit Card,Completed
+CUST_2318,Control_Legacy,83.22,0,Silver,678.82,181.63,221.49,Credit Card,Completed
+CUST_2319,Control_Legacy,58.24,0,Bronze,409.98,124.43,164.14,BNPL,Completed
+CUST_2320,Control_Legacy,100.44,1,Silver,523.62,77.51,95.57,Credit Card,Completed
+CUST_2321,Control_Legacy,67.63,0,Bronze,374.66,100.72,121.31,Debit Card,Completed
+CUST_2322,Treatment_NewUI,102.31,0,Silver,732.93,106.23,141.4,Debit Card,Completed
+CUST_2323,Control_Legacy,117.42,0,Bronze,462.99,89.47,85.46,BNPL,Cancelled
+CUST_2324,Treatment_NewUI,127.92,0,Gold,905.66,145.81,159.46,Credit Card,Completed
+CUST_2325,Control_Legacy,92.39,0,Gold,535.74,144.31,182.84,UPI,Completed
+CUST_2326,Control_Legacy,61.05,0,Bronze,254.33,85.34,118.46,BNPL,Completed
+CUST_2327,Treatment_NewUI,93.32,0,Bronze,285.86,141.75,165.79,Debit Card,Completed
+CUST_2328,Treatment_NewUI,102.69,0,Bronze,299.28,165.8,161.72,Debit Card,Completed
+CUST_2329,Control_Legacy,140.75,1,Bronze,304.97,177.08,194.83,UPI,Completed
+CUST_2330,Treatment_NewUI,49.12,0,Gold,1151.4,205.96,215.61,BNPL,Completed
+CUST_2331,Treatment_NewUI,93.41,1,Gold,1179.4,92.94,116.41,UPI,Completed
+CUST_2332,Control_Legacy,99.59,0,Bronze,306.27,204.73,211.09,Credit Card,Completed
+CUST_2333,Treatment_NewUI,97.22,0,Bronze,407.88,109.37,112.49,BNPL,Cancelled
+CUST_2334,Treatment_NewUI,99.9,0,Bronze,348.61,102.23,89.75,Debit Card,Completed
+CUST_2335,Treatment_NewUI,75.66,0,Silver,587.1,129.81,166.64,Debit Card,Completed
+CUST_2336,Control_Legacy,106.58,0,Bronze,392.52,102.54,115.04,UPI,Completed
+CUST_2337,Treatment_NewUI,95.47,1,Platinum,1438.06,131.97,152.83,Credit Card,Completed
+CUST_2338,Control_Legacy,90.54,0,Gold,1320.41,80.4,98.86,UPI,Completed
+CUST_2339,Control_Legacy,109.13,0,Bronze,204.93,112.84,115.33,Debit Card,Completed
+CUST_2340,Control_Legacy,78.96,0,Silver,523.33,158.57,158.18,BNPL,Returned
+CUST_2341,Control_Legacy,114.36,0,Platinum,1388.37,118.29,121.71,Credit Card,Completed
+CUST_2342,Treatment_NewUI,63.08,0,Silver,628.34,124.25,131.9,Debit Card,Completed
+CUST_2343,Treatment_NewUI,101.23,0,Bronze,421.44,134.26,158.26,UPI,Completed
+CUST_2344,Treatment_NewUI,74.22,0,Bronze,318.05,155.12,161.68,Credit Card,Returned
+CUST_2345,Control_Legacy,62.04,0,Gold,694.0,70.34,115.04,Credit Card,Completed
+CUST_2346,Control_Legacy,127.75,1,Silver,672.68,137.54,171.44,BNPL,Completed
+CUST_2347,Control_Legacy,58.6,1,Silver,663.05,111.96,142.58,Credit Card,Completed
+CUST_2348,Treatment_NewUI,95.95,0,Gold,600.47,125.0,141.7,BNPL,Completed
+CUST_2349,Control_Legacy,57.04,0,Gold,949.32,151.8,193.01,Credit Card,Completed
+CUST_2350,Treatment_NewUI,124.57,1,Platinum,1022.46,84.17,99.4,Debit Card,Returned
+CUST_2351,Treatment_NewUI,84.49,0,Bronze,266.83,89.62,107.65,UPI,Completed
+CUST_2352,Control_Legacy,109.0,0,Silver,480.69,61.94,82.99,UPI,Completed
+CUST_2353,Treatment_NewUI,109.0,1,Gold,1095.67,103.53,132.55,Debit Card,Completed
+CUST_2354,Control_Legacy,136.18,0,Gold,971.03,159.91,187.97,Debit Card,Completed
+CUST_2355,Treatment_NewUI,57.95,0,Silver,438.58,116.38,127.76,UPI,Completed
+CUST_2356,Treatment_NewUI,70.35,0,Bronze,390.41,79.8,90.3,Credit Card,Completed
+CUST_2357,Control_Legacy,107.66,1,Gold,691.91,105.43,133.53,Debit Card,Completed
+CUST_2358,Control_Legacy,92.9,0,Gold,1009.42,75.36,104.59,Credit Card,Cancelled
+CUST_2359,Treatment_NewUI,88.63,0,Bronze,254.88,86.24,98.84,Debit Card,Completed
+CUST_2360,Treatment_NewUI,144.42,0,Silver,539.78,131.66,126.36,Credit Card,Completed
+CUST_2361,Control_Legacy,85.52,0,Bronze,360.34,84.78,100.17,Credit Card,Completed
+CUST_2362,Treatment_NewUI,75.09,0,Bronze,361.72,153.38,181.23,Debit Card,Completed
+CUST_2363,Treatment_NewUI,120.71,0,Bronze,426.96,117.87,163.45,Credit Card,Completed
+CUST_2364,Treatment_NewUI,95.03,0,Silver,570.95,122.57,123.1,Credit Card,Completed
+CUST_2365,Control_Legacy,87.95,0,Silver,613.71,111.65,123.75,UPI,Completed
+CUST_2366,Treatment_NewUI,111.17,0,Silver,531.85,143.19,155.84,Debit Card,Completed
+CUST_2367,Treatment_NewUI,112.2,0,Silver,600.02,143.49,182.33,BNPL,Returned
+CUST_2368,Control_Legacy,63.81,0,Gold,1029.11,130.05,148.03,UPI,Completed
+CUST_2369,Control_Legacy,79.25,0,Bronze,312.14,136.94,141.83,Credit Card,Completed
+CUST_2370,Treatment_NewUI,60.56,0,Bronze,175.7,113.64,140.52,UPI,Cancelled
+CUST_2371,Control_Legacy,93.23,0,Gold,1009.66,136.27,148.7,Credit Card,Completed
+CUST_2372,Treatment_NewUI,140.7,0,Bronze,349.16,109.86,110.0,UPI,Completed
+CUST_2373,Control_Legacy,64.65,0,Platinum,1249.96,120.07,125.18,BNPL,Completed
+CUST_2374,Control_Legacy,51.56,0,Gold,718.81,111.76,156.27,Debit Card,Completed
+CUST_2375,Treatment_NewUI,78.7,0,Silver,742.35,106.28,130.55,UPI,Completed
+CUST_2376,Control_Legacy,80.31,0,Platinum,1542.86,99.33,119.44,Credit Card,Completed
+CUST_2377,Treatment_NewUI,112.43,0,Bronze,301.67,134.03,148.78,Debit Card,Returned
+CUST_2378,Control_Legacy,78.04,0,Bronze,229.04,159.32,182.2,BNPL,Cancelled
+CUST_2379,Treatment_NewUI,103.27,0,Silver,489.6,155.13,177.84,Credit Card,Completed
+CUST_2380,Control_Legacy,74.57,0,Bronze,424.21,82.3,105.19,Credit Card,Completed
+CUST_2381,Control_Legacy,81.48,1,Platinum,1454.42,158.68,178.9,Debit Card,Completed
+CUST_2382,Treatment_NewUI,74.33,0,Bronze,275.95,110.46,141.99,UPI,Completed
+CUST_2383,Control_Legacy,60.99,0,Silver,636.07,138.02,156.87,Debit Card,Completed
+CUST_2384,Treatment_NewUI,113.38,0,Silver,490.42,92.81,96.64,BNPL,Completed
+CUST_2385,Control_Legacy,76.02,0,Silver,745.09,124.26,133.57,Credit Card,Completed
+CUST_2386,Treatment_NewUI,105.1,0,Bronze,428.22,129.41,118.23,Debit Card,Completed
+CUST_2387,Control_Legacy,67.34,0,Bronze,282.67,75.46,124.36,UPI,Completed
+CUST_2388,Treatment_NewUI,94.38,0,Gold,836.84,138.25,169.69,Credit Card,Completed
+CUST_2389,Control_Legacy,39.6,0,Bronze,110.55,160.38,166.43,UPI,Completed
+CUST_2390,Control_Legacy,77.58,0,Gold,683.32,114.76,129.03,Credit Card,Completed
+CUST_2391,Control_Legacy,69.48,0,Silver,432.66,160.81,169.75,Credit Card,Completed
+CUST_2392,Control_Legacy,111.74,0,Gold,974.33,114.31,155.95,Credit Card,Completed
+CUST_2393,Treatment_NewUI,63.38,0,Gold,891.28,145.49,142.69,BNPL,Completed
+CUST_2394,Control_Legacy,82.37,0,Bronze,212.37,53.44,73.66,Debit Card,Completed
+CUST_2395,Treatment_NewUI,102.5,1,Silver,549.07,192.56,209.44,UPI,Completed
+CUST_2396,Control_Legacy,108.15,0,Gold,1040.96,164.86,195.77,Credit Card,Completed
+CUST_2397,Control_Legacy,104.69,0,Silver,638.06,111.46,128.4,Debit Card,Completed
+CUST_2398,Treatment_NewUI,92.62,1,Platinum,945.08,60.84,52.96,Debit Card,Completed
+CUST_2399,Treatment_NewUI,95.99,0,Silver,565.89,128.64,143.37,BNPL,Completed
+CUST_2400,Control_Legacy,111.72,0,Bronze,209.33,76.68,80.6,UPI,Cancelled
+CUST_2401,Control_Legacy,83.66,0,Bronze,392.14,133.35,153.04,UPI,Completed
+CUST_2402,Control_Legacy,89.43,0,Platinum,1616.04,132.35,172.36,Credit Card,Completed
+CUST_2403,Treatment_NewUI,124.32,0,Bronze,248.16,91.76,84.17,Debit Card,Returned
+CUST_2404,Treatment_NewUI,155.09,0,Gold,812.11,153.63,160.13,Debit Card,Completed
+CUST_2405,Control_Legacy,91.33,0,Gold,866.97,144.17,154.38,BNPL,Returned
+CUST_2406,Treatment_NewUI,107.27,1,Bronze,139.78,149.27,162.05,Credit Card,Completed
+CUST_2407,Treatment_NewUI,114.77,0,Bronze,346.88,120.27,149.87,Credit Card,Completed
+CUST_2408,Treatment_NewUI,124.05,0,Gold,900.89,77.53,93.43,Debit Card,Completed
+CUST_2409,Treatment_NewUI,120.11,0,Bronze,397.61,149.34,174.07,Credit Card,Completed
+CUST_2410,Control_Legacy,72.92,0,Gold,752.29,111.89,121.0,Credit Card,Completed
+CUST_2411,Control_Legacy,92.82,0,Silver,511.9,78.31,100.26,BNPL,Returned
+CUST_2412,Control_Legacy,108.93,0,Silver,414.28,160.56,190.73,Debit Card,Completed
+CUST_2413,Control_Legacy,117.46,0,Gold,769.23,182.98,190.5,BNPL,Returned
+CUST_2414,Treatment_NewUI,90.76,0,Bronze,225.44,118.76,148.98,UPI,Completed
+CUST_2415,Treatment_NewUI,101.74,0,Silver,689.56,184.77,204.06,Credit Card,Completed
+CUST_2416,Control_Legacy,94.83,0,Bronze,264.14,122.74,156.92,Debit Card,Completed
+CUST_2417,Control_Legacy,86.37,0,Bronze,329.93,108.59,124.07,Credit Card,Completed
+CUST_2418,Control_Legacy,91.68,0,Silver,538.12,101.09,125.3,BNPL,Completed
+CUST_2419,Treatment_NewUI,41.95,0,Gold,721.5,169.11,187.0,Debit Card,Returned
+CUST_2420,Control_Legacy,156.85,1,Bronze,306.54,96.6,113.65,Debit Card,Completed
+CUST_2421,Treatment_NewUI,150.74,0,Silver,645.9,142.06,164.44,Credit Card,Returned
+CUST_2422,Control_Legacy,81.51,0,Silver,447.15,103.23,129.78,Debit Card,Completed
+CUST_2423,Control_Legacy,83.16,0,Bronze,384.73,106.19,105.95,Credit Card,Completed
+CUST_2424,Treatment_NewUI,54.07,0,Bronze,252.02,150.91,190.91,Debit Card,Completed
+CUST_2425,Treatment_NewUI,50.43,0,Platinum,1299.25,108.6,99.2,UPI,Completed
+CUST_2426,Control_Legacy,96.43,0,Gold,1045.52,107.86,116.08,UPI,Completed
+CUST_2427,Treatment_NewUI,120.41,0,Silver,507.02,153.98,171.07,Credit Card,Completed
+CUST_2428,Treatment_NewUI,115.22,0,Silver,584.13,167.92,192.61,Debit Card,Completed
+CUST_2429,Treatment_NewUI,73.91,0,Bronze,294.82,139.34,181.48,BNPL,Completed
+CUST_2430,Control_Legacy,102.95,0,Silver,594.23,100.36,90.98,Credit Card,Completed
+CUST_2431,Treatment_NewUI,91.21,1,Silver,318.12,104.68,115.57,BNPL,Completed
+CUST_2432,Control_Legacy,77.35,0,Silver,378.74,122.4,108.99,Credit Card,Completed
+CUST_2433,Treatment_NewUI,61.17,1,Bronze,369.28,129.63,148.6,UPI,Completed
+CUST_2434,Control_Legacy,69.78,1,Bronze,402.97,90.36,112.94,Debit Card,Completed
+CUST_2435,Control_Legacy,96.97,1,Bronze,247.16,141.69,184.05,Debit Card,Completed
+CUST_2436,Control_Legacy,92.58,0,Platinum,1358.99,122.57,142.87,BNPL,Completed
+CUST_2437,Treatment_NewUI,98.32,1,Silver,612.42,68.53,102.69,Credit Card,Completed
+CUST_2438,Control_Legacy,37.6,0,Silver,656.25,92.13,119.39,Credit Card,Completed
+CUST_2439,Treatment_NewUI,98.57,0,Bronze,157.79,104.88,116.85,Debit Card,Completed
+CUST_2440,Treatment_NewUI,79.84,1,Bronze,249.12,117.81,115.18,UPI,Completed
+CUST_2441,Control_Legacy,92.74,0,Gold,890.14,176.68,199.3,Credit Card,Returned
+CUST_2442,Treatment_NewUI,124.89,0,Silver,657.35,127.15,123.26,UPI,Completed
+CUST_2443,Control_Legacy,75.64,0,Silver,854.83,94.78,132.7,Debit Card,Completed
+CUST_2444,Treatment_NewUI,96.73,0,Bronze,301.76,126.62,142.69,Credit Card,Completed
+CUST_2445,Control_Legacy,130.43,0,Gold,696.74,109.44,145.87,UPI,Completed
+CUST_2446,Treatment_NewUI,101.0,0,Bronze,352.18,129.74,141.04,Credit Card,Completed
+CUST_2447,Treatment_NewUI,93.65,0,Bronze,425.68,137.42,159.95,Debit Card,Completed
+CUST_2448,Treatment_NewUI,74.28,0,Silver,591.88,156.28,177.92,Credit Card,Completed
+CUST_2449,Treatment_NewUI,114.37,0,Bronze,247.47,119.27,137.1,Debit Card,Completed
+CUST_2450,Control_Legacy,64.04,1,Bronze,396.64,169.17,181.18,UPI,Completed
+CUST_2451,Treatment_NewUI,126.14,0,Silver,652.99,147.24,171.63,Debit Card,Completed
+CUST_2452,Treatment_NewUI,110.49,0,Silver,467.13,98.78,103.38,Debit Card,Completed
+CUST_2453,Treatment_NewUI,80.65,0,Gold,1018.66,186.3,186.65,Debit Card,Completed
+CUST_2454,Control_Legacy,68.3,1,Silver,689.7,129.81,166.95,Credit Card,Completed
+CUST_2455,Treatment_NewUI,75.59,1,Bronze,414.55,94.95,124.35,Debit Card,Completed
+CUST_2456,Treatment_NewUI,50.81,0,Bronze,314.68,169.59,189.08,BNPL,Completed
+CUST_2457,Treatment_NewUI,105.75,0,Platinum,1330.48,182.33,225.81,BNPL,Cancelled
+CUST_2458,Control_Legacy,39.84,1,Silver,715.0,119.01,133.49,Credit Card,Returned
+CUST_2459,Treatment_NewUI,92.09,0,Gold,732.17,104.89,143.23,Credit Card,Completed
+CUST_2460,Control_Legacy,82.19,0,Bronze,355.09,114.83,135.96,BNPL,Completed
+CUST_2461,Treatment_NewUI,86.2,0,Silver,429.3,141.44,144.57,Debit Card,Completed
+CUST_2462,Control_Legacy,95.72,1,Bronze,405.23,158.34,204.56,Debit Card,Returned
+CUST_2463,Treatment_NewUI,80.71,0,Silver,551.61,137.11,170.48,UPI,Completed
+CUST_2464,Treatment_NewUI,98.64,1,Platinum,1737.15,123.05,139.74,Credit Card,Completed
+CUST_2465,Control_Legacy,114.17,0,Platinum,1542.85,164.94,194.35,Debit Card,Completed
+CUST_2466,Treatment_NewUI,108.56,1,Silver,445.45,110.61,123.06,BNPL,Completed
+CUST_2467,Control_Legacy,76.43,0,Silver,736.71,150.93,181.86,UPI,Completed
+CUST_2468,Treatment_NewUI,94.39,0,Platinum,1807.81,111.36,93.99,Credit Card,Completed
+CUST_2469,Treatment_NewUI,86.22,0,Silver,677.05,132.93,136.13,Credit Card,Completed
+CUST_2470,Treatment_NewUI,90.17,0,Bronze,259.07,116.59,149.78,Credit Card,Completed
+CUST_2471,Treatment_NewUI,99.4,0,Silver,546.34,118.32,133.08,UPI,Completed
+CUST_2472,Treatment_NewUI,60.18,0,Bronze,331.63,108.68,130.29,Credit Card,Completed
+CUST_2473,Control_Legacy,50.29,0,Silver,502.59,160.35,158.64,Credit Card,Completed
+CUST_2474,Control_Legacy,65.86,0,Silver,766.16,98.01,144.23,BNPL,Returned
+CUST_2475,Treatment_NewUI,106.78,0,Silver,595.88,97.79,134.15,Credit Card,Completed
+CUST_2476,Treatment_NewUI,110.25,0,Bronze,103.73,183.63,199.12,Credit Card,Completed
+CUST_2477,Treatment_NewUI,114.06,1,Bronze,347.15,149.34,161.76,Credit Card,Completed
+CUST_2478,Treatment_NewUI,73.22,0,Silver,541.7,48.45,82.39,Credit Card,Completed
+CUST_2479,Control_Legacy,87.65,0,Gold,936.51,103.04,151.28,Debit Card,Completed
+CUST_2480,Treatment_NewUI,84.82,1,Silver,539.45,65.64,98.45,BNPL,Completed
+CUST_2481,Control_Legacy,82.78,0,Bronze,384.56,91.48,142.56,BNPL,Completed
+CUST_2482,Treatment_NewUI,84.4,0,Platinum,1699.92,25.84,30.51,Debit Card,Completed
+CUST_2483,Control_Legacy,91.42,0,Platinum,1490.76,115.89,122.1,Debit Card,Completed
+CUST_2484,Control_Legacy,70.76,0,Bronze,292.86,85.74,86.41,Debit Card,Completed
+CUST_2485,Control_Legacy,111.28,0,Bronze,316.69,121.8,146.92,Credit Card,Completed
+CUST_2486,Control_Legacy,111.5,1,Gold,953.53,71.25,92.38,Credit Card,Completed
+CUST_2487,Treatment_NewUI,105.98,0,Gold,805.56,122.49,138.71,BNPL,Completed
+CUST_2488,Control_Legacy,108.29,0,Platinum,1564.73,107.55,138.19,Credit Card,Completed
+CUST_2489,Control_Legacy,54.19,0,Gold,1032.81,165.06,202.04,Credit Card,Completed
+CUST_2490,Control_Legacy,112.73,0,Silver,749.45,162.34,157.96,Debit Card,Completed
+CUST_2491,Control_Legacy,93.85,1,Silver,718.09,143.56,153.11,Debit Card,Completed
+CUST_2492,Control_Legacy,71.98,0,Bronze,265.15,110.2,141.0,Credit Card,Completed
+CUST_2493,Control_Legacy,69.88,0,Bronze,385.62,179.56,191.05,Credit Card,Returned
+CUST_2494,Treatment_NewUI,133.62,0,Silver,475.4,73.41,79.94,Debit Card,Completed
+CUST_2495,Treatment_NewUI,114.49,0,Silver,656.55,77.89,111.67,UPI,Completed
+CUST_2496,Treatment_NewUI,90.53,0,Silver,523.17,117.49,116.64,Credit Card,Completed
+CUST_2497,Control_Legacy,53.97,0,Gold,765.81,187.62,201.6,Debit Card,Completed
+CUST_2498,Control_Legacy,114.01,1,Bronze,342.4,113.93,137.36,Debit Card,Completed
+CUST_2499,Treatment_NewUI,67.07,0,Silver,285.8,114.5,124.4,BNPL,Returned

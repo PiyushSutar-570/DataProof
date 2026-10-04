@@ -1,0 +1,14 @@
+WEEK 3 TASK REPORT DESCRIPTION: STATISTICAL ANALYSIS AND HYPOTHESIS TESTING IN PYTHON
+
+Project Overview:
+This project delivers a comprehensive, rigorous statistical analysis and hypothesis testing study conducted in Python to evaluate key e-commerce operational and marketing strategies for OmniMart Retail. Utilizing a robust dataset of 1,500 customer transactions, the analysis addresses four core business problems using parametric and non-parametric statistical methods implemented via SciPy, Statsmodels, Pandas, Seaborn, and Matplotlib.
+
+Formulated Hypotheses & Statistical Methodology:
+1. A/B Checkout UI Performance (Independent Welch's T-Test & Two-Proportion Z-Test): Tested whether the new single-page checkout UI increases Average Order Value (AOV) and conversion rate compared to the legacy checkout flow. Results confirmed a statistically significant increase in AOV from $85.50 to $94.20 (t = 6.208, p < 0.0001, Cohen's d = 0.373) and a conversion rate improvement from 14.0% to 19.0% (Z = 2.584, p = 0.0049).
+2. Promotional Discount Voucher Impact (Paired Two-Sample T-Test & Wilcoxon Signed-Rank Test): Evaluated pre- versus post-promotion spending per customer after distributing a $15 discount voucher. Post-promotion spend increased by an average of $18.50 per customer (paired t = 20.315, p < 0.0001, Cohen's d = 0.812), demonstrating a net positive campaign ROI.
+3. Customer Loyalty Tier Spend Analysis (One-Way ANOVA & Tukey HSD Post-Hoc Test): Investigated variance in annual customer spend across Bronze, Silver, Gold, and Platinum tiers. ANOVA revealed significant variance across groups (F = 1148.92, p < 0.0001, Eta-squared = 0.697), with Tukey HSD confirming significant differences between all pairwise tier combinations.
+4. Payment Method vs. Order Status Independence (Chi-Square Test of Independence): Evaluated the dependency between payment methods (Credit Card, Debit Card, UPI, BNPL) and order outcomes. The Chi-Square test rejected independence (Chi-Square = 72.18, df = 6, p < 0.0001, Cramér's V = 0.155), revealing that Buy-Now-Pay-Later (BNPL) exhibits a significantly higher return rate (22%) than credit cards or UPI.
+
+Deliverables:
+- Formal Word Document Report: 'Statistical_Analysis_and_Hypothesis_Testing_Report.docx' complete with executive summary, methodology, hypothesis definitions, statistical tables, 5 embedded publication-quality visualizations, and strategic business recommendations.
+- Python Pipeline & Notebook: Fully executable code ('main_analysis.py', 'generate_docx_report.py', 'run_pipeline.py') and interactive Jupyter Notebook ('statistical_analysis_notebook.ipynb').
