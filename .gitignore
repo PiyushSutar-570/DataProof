@@ -36,5 +36,5 @@ lib/
 ehthumbs.db
 Thumbs.db
 
-# Project-specific output & logs
+# Output & Logs
 *.log
